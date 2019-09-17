@@ -19,8 +19,8 @@ class SyncObject:
     self.dest = dest
 
 syncPath = dict([
-	("1", SyncObject("C:/temp/src", "C:/temp/dest")),
-	("2", SyncObject("C:/temp/src", "C:/temp/dest1"))
+	("1", SyncObject("C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva", "P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS")),
+	("2", SyncObject("C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification", "P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification"))
 ])
 
 def main():

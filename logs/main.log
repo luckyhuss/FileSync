@@ -1,1282 +1,487 @@
-17-Sep-2019 09:53:13 INFO: Starting program
-17-Sep-2019 09:53:13 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:53:13 INFO: 0.1 seconds to update albums error
-17-Sep-2019 09:53:13 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:53:13 INFO: 0.05 seconds to update albums error
-17-Sep-2019 09:53:13 INFO: Exiting program
-17-Sep-2019 09:53:29 INFO: Starting program
-17-Sep-2019 09:53:29 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:53:29 INFO: 0.11 seconds to update albums error
-17-Sep-2019 09:53:29 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:53:29 INFO: 0.08 seconds to update albums error
-17-Sep-2019 09:53:29 INFO: Exiting program
-17-Sep-2019 09:53:31 INFO: Starting program
-17-Sep-2019 09:53:31 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:53:31 INFO: 0.08 seconds to update albums error
-17-Sep-2019 09:53:31 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:53:31 INFO: 0.1 seconds to update albums error
-17-Sep-2019 09:53:31 INFO: Exiting program
-17-Sep-2019 09:57:28 INFO: Starting program
-17-Sep-2019 09:57:28 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:57:28 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 09:57:28 INFO: 0.08 seconds to update albums error
-17-Sep-2019 09:57:28 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:57:28 INFO: 
-
-17-Sep-2019 09:57:28 INFO: 0.06 seconds to update albums error
-17-Sep-2019 09:57:28 INFO: Exiting program
-17-Sep-2019 09:58:03 INFO: Starting program
-17-Sep-2019 09:58:03 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:58:03 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.10 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 09:58:03 INFO: 0.1 seconds to update albums error
-17-Sep-2019 09:58:03 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:58:03 INFO: 
-
-17-Sep-2019 09:58:03 INFO: 0.14 seconds to update albums error
-17-Sep-2019 09:58:03 INFO: Exiting program
-17-Sep-2019 09:58:06 INFO: Starting program
-17-Sep-2019 09:58:06 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 09:58:06 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 09:58:06 INFO: 0.07 seconds to update albums error
-17-Sep-2019 09:58:06 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 09:58:06 INFO: 
-
-17-Sep-2019 09:58:06 INFO: 0.09 seconds to update albums error
-17-Sep-2019 09:58:06 INFO: Exiting program
-17-Sep-2019 10:02:01 INFO: Starting program
-17-Sep-2019 10:02:01 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:02:01 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.12 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:02:14 INFO: Starting program
-17-Sep-2019 10:02:14 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:02:14 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:02:14 INFO: 0.09 seconds to update albums error
-17-Sep-2019 10:02:14 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:02:14 INFO: 
-
-17-Sep-2019 10:02:14 INFO: 0.05 seconds to update albums error
-17-Sep-2019 10:02:14 INFO: Exiting program
-17-Sep-2019 10:02:37 INFO: Starting program
-17-Sep-2019 10:02:37 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:02:38 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:02:38 INFO: 0.1 seconds to update albums error
-17-Sep-2019 10:02:38 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:02:38 INFO: 
-
-17-Sep-2019 10:02:38 INFO: 0.07 seconds to update albums error
-17-Sep-2019 10:02:38 INFO: Exiting program
-17-Sep-2019 10:02:57 INFO: Starting program
-17-Sep-2019 10:02:57 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:02:57 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.10 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:02:57 INFO: 0.1 seconds to update albums error
-17-Sep-2019 10:02:57 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:02:57 INFO: 
-
-17-Sep-2019 10:02:57 INFO: 0.08 seconds to update albums error
-17-Sep-2019 10:02:57 INFO: Exiting program
-17-Sep-2019 10:03:46 INFO: Starting program
-17-Sep-2019 10:03:46 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:03:47 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:03:47 INFO: 1.08 seconds to update albums error
-17-Sep-2019 10:03:47 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:03:48 INFO: 
-
-17-Sep-2019 10:03:48 INFO: 1.07 seconds to update albums error
-17-Sep-2019 10:03:48 INFO: Exiting program
-17-Sep-2019 10:04:20 INFO: Starting program
-17-Sep-2019 10:04:20 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:04:21 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:04:21 INFO: 1.11 seconds to update albums error
-17-Sep-2019 10:04:21 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:04:22 INFO: 
-
-17-Sep-2019 10:04:22 INFO: 1.06 seconds to update albums error
-17-Sep-2019 10:04:22 INFO: Exiting program
-17-Sep-2019 10:06:24 INFO: Starting program
-17-Sep-2019 10:06:24 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:06:59 INFO: Starting program
-17-Sep-2019 10:06:59 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:07:00 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:07:00 INFO: 1.07 seconds to update albums error
-17-Sep-2019 10:07:00 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:07:01 INFO: 
-
-17-Sep-2019 10:07:01 INFO: 1.07 seconds to update albums error
-17-Sep-2019 10:07:01 INFO: Exiting program
-17-Sep-2019 10:07:19 INFO: Starting program
-17-Sep-2019 10:07:19 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:07:20 INFO: 1.07 seconds to update albums error
-17-Sep-2019 10:07:20 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:07:21 INFO: 1.07 seconds to update albums error
-17-Sep-2019 10:07:21 INFO: Exiting program
-17-Sep-2019 10:07:37 INFO: Starting program
-17-Sep-2019 10:07:37 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:07:38 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.12 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:07:38 INFO: 1.14 seconds to update albums error
-17-Sep-2019 10:07:38 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:07:39 INFO: 
-
-17-Sep-2019 10:07:39 INFO: 1.11 seconds to update albums error
-17-Sep-2019 10:07:39 INFO: Exiting program
-17-Sep-2019 10:08:55 INFO: Starting program
-17-Sep-2019 10:08:55 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:08:56 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:08:56 INFO: 1.09 seconds to update files
-17-Sep-2019 10:08:56 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:08:57 INFO: 
-
-17-Sep-2019 10:08:57 INFO: 1.07 seconds to update files
-17-Sep-2019 10:08:57 INFO: Exiting program
-17-Sep-2019 10:09:21 INFO: Starting program
-17-Sep-2019 10:09:21 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:09:22 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.16 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:09:22 WARNING: test
-17-Sep-2019 10:09:22 INFO: 1.16 seconds to update files
-17-Sep-2019 10:09:22 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:09:23 INFO: 
-
-17-Sep-2019 10:09:23 WARNING: test
-17-Sep-2019 10:09:23 INFO: 1.09 seconds to update files
-17-Sep-2019 10:09:23 INFO: Exiting program
-17-Sep-2019 10:10:07 INFO: Starting program
-17-Sep-2019 10:10:07 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:10:08 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:10:35 INFO: Starting program
-17-Sep-2019 10:10:35 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:10:37 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:11:24 INFO: Starting program
-17-Sep-2019 10:11:24 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:11:25 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:11:25 WARNING: test : 158
-17-Sep-2019 10:11:25 INFO: 1.09 seconds to update files
-17-Sep-2019 10:11:25 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:11:26 INFO: 
-
-17-Sep-2019 10:11:26 WARNING: test : 0
-17-Sep-2019 10:11:26 INFO: 1.09 seconds to update files
-17-Sep-2019 10:11:26 INFO: Exiting program
-17-Sep-2019 10:12:46 INFO: Starting program
-17-Sep-2019 10:12:46 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:12:47 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:12:47 WARNING: test : 158
-17-Sep-2019 10:12:47 INFO: 1.11 seconds to update files
-17-Sep-2019 10:12:47 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:12:48 INFO: 
-
-17-Sep-2019 10:12:48 WARNING: test : 0
-17-Sep-2019 10:12:48 INFO: 1.05 seconds to update files
-17-Sep-2019 10:12:48 INFO: Exiting program
-17-Sep-2019 10:13:24 INFO: Starting program
-17-Sep-2019 10:13:24 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:13:24 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.11 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:13:24 WARNING: test : 158
-17-Sep-2019 10:13:24 INFO: 0.12 seconds to update files
-17-Sep-2019 10:13:24 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:13:24 INFO: 
-
-17-Sep-2019 10:13:24 WARNING: test : 0
-17-Sep-2019 10:13:24 INFO: 0.07 seconds to update files
-17-Sep-2019 10:13:24 INFO: Exiting program
-17-Sep-2019 10:13:53 INFO: Starting program
-17-Sep-2019 10:13:53 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:13:53 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.10 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:13:53 WARNING: test : 158
-17-Sep-2019 10:13:53 INFO: 0.1 seconds to update files
-17-Sep-2019 10:13:53 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:13:53 INFO: 
-
-17-Sep-2019 10:13:53 WARNING: test : 0
-17-Sep-2019 10:13:53 INFO: 0.1 seconds to update files
-17-Sep-2019 10:13:53 INFO: Exiting program
-17-Sep-2019 10:17:58 INFO: Starting program
-17-Sep-2019 10:17:58 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:17:58 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:17:58 WARNING: test : 158
-17-Sep-2019 10:17:58 INFO: 0.08 seconds to update files
-17-Sep-2019 10:17:58 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:17:58 INFO: 
-
-17-Sep-2019 10:17:58 WARNING: test : 0
-17-Sep-2019 10:17:58 INFO: 0.07 seconds to update files
-17-Sep-2019 10:17:58 INFO: Exiting program
-17-Sep-2019 10:18:14 INFO: Starting program
-17-Sep-2019 10:18:14 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:18:14 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:18:14 WARNING: test : 158
-17-Sep-2019 10:18:14 INFO: 0.06 seconds to update files
-17-Sep-2019 10:18:14 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:18:14 INFO: 
-
-17-Sep-2019 10:18:14 WARNING: test : 0
-17-Sep-2019 10:18:14 INFO: 0.06 seconds to update files
-17-Sep-2019 10:18:14 INFO: Exiting program
-17-Sep-2019 10:18:36 INFO: Starting program
-17-Sep-2019 10:18:36 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:18:36 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.15 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:18:36 WARNING: test : 158
-17-Sep-2019 10:18:36 INFO: 0.15 seconds to update files
-17-Sep-2019 10:18:36 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:18:36 INFO: 
-
-17-Sep-2019 10:18:36 WARNING: test : 0
-17-Sep-2019 10:18:36 INFO: 0.1 seconds to update files
-17-Sep-2019 10:18:36 INFO: Exiting program
-17-Sep-2019 10:18:54 INFO: Starting program
-17-Sep-2019 10:18:54 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:18:55 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:18:55 WARNING: test : 158
-17-Sep-2019 10:18:55 INFO: 0.09 seconds to update files
-17-Sep-2019 10:18:55 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:18:55 INFO: 
-
-17-Sep-2019 10:18:55 WARNING: test : 0
-17-Sep-2019 10:18:55 INFO: 0.05 seconds to update files
-17-Sep-2019 10:18:55 INFO: Exiting program
-17-Sep-2019 10:24:31 INFO: Starting program
-17-Sep-2019 10:24:31 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:24:31 INFO: 
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.11 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:24:31 WARNING: test : 158
-17-Sep-2019 10:24:31 INFO: 0.12 seconds to update files
-17-Sep-2019 10:24:31 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:24:31 INFO: 
-
-17-Sep-2019 10:24:31 WARNING: test : 0
-17-Sep-2019 10:24:31 INFO: 0.05 seconds to update files
-17-Sep-2019 10:24:31 INFO: Exiting program
-17-Sep-2019 10:31:48 INFO: Starting program
-17-Sep-2019 10:31:48 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:31:48 INFO: 
-test1
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.08 seconds.
-13 directories parsed, 0 files copied
-
-
-17-Sep-2019 10:31:48 WARNING: test : 164
-17-Sep-2019 10:31:48 INFO: 0.08 seconds to update files
-17-Sep-2019 10:31:48 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:31:48 INFO: 
-test1
-
-17-Sep-2019 10:31:48 WARNING: test : 6
-17-Sep-2019 10:31:48 INFO: 0.05 seconds to update files
-17-Sep-2019 10:31:48 INFO: Exiting program
-17-Sep-2019 10:32:27 INFO: Starting program
-17-Sep-2019 10:32:28 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:32:28 INFO: 
-test1
-dirsync finished in 0.14 seconds.
-13 directories parsed, 0 files copied
-
-test12
-
-17-Sep-2019 10:32:28 WARNING: test : 86
-17-Sep-2019 10:32:28 INFO: 0.14 seconds to update files
-17-Sep-2019 10:32:28 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:32:28 INFO: 
-test1
-test12
-
-17-Sep-2019 10:32:28 WARNING: test : 13
-17-Sep-2019 10:32:28 INFO: 0.16 seconds to update files
-17-Sep-2019 10:32:28 INFO: Exiting program
-17-Sep-2019 10:38:45 INFO: Starting program
-17-Sep-2019 10:38:45 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:38:45 INFO: 
-test1
-dirsync finished in 0.15 seconds.
-13 directories parsed, 0 files copied
-
-test12
-
-17-Sep-2019 10:38:45 WARNING: test : 86
-17-Sep-2019 10:38:50 INFO: 5.15 seconds to update files
-17-Sep-2019 10:38:50 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:38:50 INFO: 
-test1
-test12
-
-17-Sep-2019 10:38:50 WARNING: test : 13
-17-Sep-2019 10:38:55 INFO: 5.06 seconds to update files
-17-Sep-2019 10:38:55 INFO: Exiting program
-17-Sep-2019 10:39:32 INFO: Starting program
-17-Sep-2019 10:39:40 INFO: Starting program
-17-Sep-2019 10:39:52 INFO: Starting program
-17-Sep-2019 10:40:01 INFO: Starting program
-17-Sep-2019 10:40:01 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:40:01 INFO: 
-test1
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-test12
-
-17-Sep-2019 10:40:01 WARNING: test : 86
-17-Sep-2019 10:40:06 INFO: 5.1 seconds to update files
-17-Sep-2019 10:40:06 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:40:06 INFO: 
-test1
-test12
-
-17-Sep-2019 10:40:06 WARNING: test : 13
-17-Sep-2019 10:40:11 INFO: 5.07 seconds to update files
-17-Sep-2019 10:40:11 INFO: Exiting program
-17-Sep-2019 10:57:00 INFO: Starting program
-17-Sep-2019 10:57:00 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 10:57:00 INFO: 
-test1
-dirsync finished in 0.10 seconds.
-13 directories parsed, 0 files copied
-
-test12
-
-17-Sep-2019 10:57:00 WARNING: test : 86
-17-Sep-2019 10:57:05 INFO: 5.12 seconds to update files
-17-Sep-2019 10:57:05 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 10:57:05 INFO: 
-test1
-test12
-
-17-Sep-2019 10:57:05 WARNING: test : 13
-17-Sep-2019 10:57:10 INFO: 5.08 seconds to update files
-17-Sep-2019 10:57:10 INFO: Exiting program
-17-Sep-2019 11:06:34 INFO: Starting program
-17-Sep-2019 11:06:34 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:06:34 INFO: 0.06 seconds to update files
-17-Sep-2019 11:06:34 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:06:34 INFO: 0.11 seconds to update files
-17-Sep-2019 11:06:34 INFO: Exiting program
-17-Sep-2019 11:07:44 INFO: Starting program
-17-Sep-2019 11:07:44 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:08:48 INFO: Starting program
-17-Sep-2019 11:08:48 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:09:11 INFO: Starting program
-17-Sep-2019 11:09:11 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:09:11 INFO: 0.08 seconds to update files
-17-Sep-2019 11:09:11 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:09:12 INFO: 0.1 seconds to update files
-17-Sep-2019 11:09:12 INFO: Exiting program
-17-Sep-2019 11:09:30 INFO: Starting program
-17-Sep-2019 11:09:30 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:09:30 INFO: 0.08 seconds to update files
-17-Sep-2019 11:09:30 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:09:30 INFO: 0.12 seconds to update files
-17-Sep-2019 11:09:30 INFO: Exiting program
-17-Sep-2019 11:10:08 INFO: Starting program
-17-Sep-2019 11:10:08 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:10:27 INFO: Starting program
-17-Sep-2019 11:10:27 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:10:27 INFO: 0.15 seconds to update files
-17-Sep-2019 11:10:27 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:10:27 INFO: 0.12 seconds to update files
-17-Sep-2019 11:10:27 INFO: Exiting program
-17-Sep-2019 11:11:33 INFO: Starting program
-17-Sep-2019 11:11:33 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:11:34 INFO: 0.11 seconds to update files
-17-Sep-2019 11:11:34 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:11:34 INFO: 0.1 seconds to update files
-17-Sep-2019 11:11:34 INFO: Exiting program
-17-Sep-2019 11:12:33 INFO: Starting program
-17-Sep-2019 11:12:33 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:12:34 INFO: 0.14 seconds to update files
-17-Sep-2019 11:12:34 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:12:34 INFO: 0.17 seconds to update files
-17-Sep-2019 11:12:34 INFO: Exiting program
-17-Sep-2019 11:13:00 INFO: Starting program
-17-Sep-2019 11:13:00 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:13:19 INFO: Starting program
-17-Sep-2019 11:13:19 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:13:39 INFO: Starting program
-17-Sep-2019 11:13:39 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:13:40 INFO: 1.09 seconds to update files
-17-Sep-2019 11:13:40 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:13:41 INFO: 1.1 seconds to update files
-17-Sep-2019 11:13:41 INFO: Exiting program
-17-Sep-2019 11:13:52 INFO: Starting program
-17-Sep-2019 11:13:52 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:13:53 INFO: 1.25 seconds to update files
-17-Sep-2019 11:13:53 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:13:54 INFO: 1.11 seconds to update files
-17-Sep-2019 11:13:54 INFO: Exiting program
-17-Sep-2019 11:14:05 INFO: Starting program
-17-Sep-2019 11:14:05 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:14:06 INFO: 1.11 seconds to update files
-17-Sep-2019 11:14:06 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:14:07 INFO: 1.1 seconds to update files
-17-Sep-2019 11:14:07 INFO: Exiting program
-17-Sep-2019 11:14:36 INFO: Starting program
-17-Sep-2019 11:14:36 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:14:36 INFO: 0.12 seconds to update files
-17-Sep-2019 11:14:36 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:14:36 INFO: 0.06 seconds to update files
-17-Sep-2019 11:14:36 INFO: Exiting program
-17-Sep-2019 11:17:03 INFO: Starting program
-17-Sep-2019 11:17:03 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:17:43 INFO: Starting program
-17-Sep-2019 11:17:43 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:17:43 INFO: dirsync finished in 0.10 seconds.
-17-Sep-2019 11:17:43 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:17:43 INFO: 
-17-Sep-2019 11:17:43 INFO: 0.1 seconds to update files
-17-Sep-2019 11:17:43 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:17:43 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:17:43 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:17:43 INFO: 
-17-Sep-2019 11:17:43 INFO: 0.08 seconds to update files
-17-Sep-2019 11:17:43 INFO: Exiting program
-17-Sep-2019 11:18:10 INFO: Starting program
-17-Sep-2019 11:18:10 DEBUG: C:/temp/src C:/temp/dest
-17-Sep-2019 11:18:10 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:18:10 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:18:10 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:18:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:18:10 INFO: 
-17-Sep-2019 11:18:10 INFO: 0.09 seconds to update files
-17-Sep-2019 11:18:10 DEBUG: C:/temp/src C:/temp/dest1
-17-Sep-2019 11:18:10 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:18:10 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:18:10 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:18:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:18:10 INFO: 
-17-Sep-2019 11:18:10 INFO: 0.08 seconds to update files
-17-Sep-2019 11:18:10 INFO: Exiting program
-17-Sep-2019 11:19:57 INFO: Starting program
-17-Sep-2019 11:20:07 INFO: Starting program
-17-Sep-2019 11:20:07 DEBUG: Processing #1
-17-Sep-2019 11:20:07 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:20:07 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:20:07 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:20:07 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:20:07 INFO: 
-17-Sep-2019 11:20:07 INFO: 0.07 seconds to update files
-17-Sep-2019 11:20:07 DEBUG: Processing #2
-17-Sep-2019 11:20:07 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:20:07 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:20:07 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:20:07 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:20:07 INFO: 
-17-Sep-2019 11:20:07 INFO: 0.07 seconds to update files
-17-Sep-2019 11:20:07 INFO: Exiting program
-17-Sep-2019 11:25:32 INFO: Starting program
-17-Sep-2019 11:25:32 DEBUG: Processing #1
-17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:25:32 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:25:32 INFO: 
-17-Sep-2019 11:25:32 DEBUG: Processing #1
-17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:25:32 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:25:32 INFO: 
-17-Sep-2019 11:25:32 DEBUG: Processing #2
-17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:25:32 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:25:32 INFO: 
-17-Sep-2019 11:25:32 DEBUG: Processing #2
-17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:25:32 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:25:32 INFO: 
-17-Sep-2019 11:25:32 INFO: Exiting program
-17-Sep-2019 11:26:41 INFO: Starting program
-17-Sep-2019 11:26:41 DEBUG: Processing #1
-17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:26:41 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:26:41 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:26:41 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:26:41 INFO: 
-17-Sep-2019 11:26:41 DEBUG: Processing #1
-17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:26:41 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:26:41 INFO: 
-17-Sep-2019 11:26:41 DEBUG: Processing #2
-17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:26:41 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:26:41 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:26:41 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:26:41 INFO: 
-17-Sep-2019 11:26:41 DEBUG: Processing #2
-17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:26:41 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:26:41 INFO: 
-17-Sep-2019 11:26:41 INFO: Exiting program
-17-Sep-2019 11:27:14 INFO: Starting program
-17-Sep-2019 11:27:14 DEBUG: Processing #1
-17-Sep-2019 11:27:14 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:27:14 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:27:15 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:27:15 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:27:15 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:27:15 INFO: 
-17-Sep-2019 11:27:15 DEBUG: Processing #1
-17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:27:15 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:27:15 INFO: 
-17-Sep-2019 11:27:15 DEBUG: Processing #2
-17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:27:15 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:27:15 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:27:15 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:27:15 INFO: 
-17-Sep-2019 11:27:15 DEBUG: Processing #2
-17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:27:15 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:27:15 INFO: 
-17-Sep-2019 11:27:15 INFO: Exiting program
-17-Sep-2019 11:28:23 INFO: Starting program
-17-Sep-2019 11:28:23 DEBUG: Processing #1
-17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:28:23 INFO: dirsync finished in 0.11 seconds.
-17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:28:23 INFO: 
-17-Sep-2019 11:28:23 DEBUG: Processing #1
-17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:28:23 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:28:23 INFO: 
-17-Sep-2019 11:28:23 DEBUG: Processing #2
-17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:28:23 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:28:23 INFO: 
-17-Sep-2019 11:28:23 DEBUG: Processing #2
-17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:28:24 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:28:24 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:28:24 INFO: 
-17-Sep-2019 11:28:24 INFO: Exiting program
-17-Sep-2019 11:29:03 INFO: Starting program
-17-Sep-2019 11:29:03 DEBUG: Processing #1
-17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:29:03 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:29:03 INFO: dirsync finished in 0.14 seconds.
-17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:29:03 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:29:03 INFO: 
-17-Sep-2019 11:29:03 DEBUG: Processing #1
-17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:29:03 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:29:03 INFO: 
-17-Sep-2019 11:29:03 DEBUG: Processing #2
-17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:29:03 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:29:03 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:29:03 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:29:03 INFO: 
-17-Sep-2019 11:29:03 DEBUG: Processing #2
-17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:29:03 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:29:03 INFO: 
-17-Sep-2019 11:29:03 INFO: Exiting program
-17-Sep-2019 11:33:41 INFO: Starting program
-17-Sep-2019 11:33:41 DEBUG: Processing #1
-17-Sep-2019 11:33:41 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:33:41 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:33:41 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:33:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:33:41 INFO: 
-17-Sep-2019 11:33:41 DEBUG: Processing #2
-17-Sep-2019 11:33:41 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:33:41 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:33:41 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:33:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:33:41 INFO: 
-17-Sep-2019 11:33:41 INFO: Exiting program
-17-Sep-2019 11:34:15 INFO: Starting program
-17-Sep-2019 11:34:15 DEBUG: Processing #1
-17-Sep-2019 11:34:15 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:34:15 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:34:15 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:34:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:34:15 INFO: 
-17-Sep-2019 11:34:15 DEBUG: Processing #2
-17-Sep-2019 11:34:15 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:34:15 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:34:15 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:34:15 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:34:15 INFO: 
-17-Sep-2019 11:34:15 INFO: Exiting program
-17-Sep-2019 11:34:50 INFO: Starting program
-17-Sep-2019 11:34:50 DEBUG: Processing #1
-17-Sep-2019 11:34:50 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:34:50 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:34:50 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:34:50 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:34:50 INFO: 
-17-Sep-2019 11:34:50 DEBUG: Processing #2
-17-Sep-2019 11:34:50 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:34:50 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:34:50 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:34:50 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:34:50 INFO: 
-17-Sep-2019 11:34:50 INFO: Exiting program
-17-Sep-2019 11:35:22 INFO: Starting program
-17-Sep-2019 11:35:22 DEBUG: Processing #1
-17-Sep-2019 11:35:22 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:35:22 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:35:23 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:35:23 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:35:23 INFO: 
-17-Sep-2019 11:35:23 DEBUG: Processing #2
-17-Sep-2019 11:35:23 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:35:23 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:35:23 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:35:23 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:35:23 INFO: 
-17-Sep-2019 11:35:23 INFO: Exiting program
-17-Sep-2019 11:36:02 INFO: Starting program
-17-Sep-2019 11:36:02 DEBUG: Processing #1
-17-Sep-2019 11:36:02 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:36:02 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:36:02 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:36:02 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:36:02 INFO: 
-17-Sep-2019 11:36:02 DEBUG: Processing #2
-17-Sep-2019 11:36:02 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:36:02 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:36:02 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:36:02 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:36:02 INFO: 
-17-Sep-2019 11:36:02 INFO: Exiting program
-17-Sep-2019 11:38:09 INFO: Starting program
-17-Sep-2019 11:38:09 DEBUG: Processing #1
-17-Sep-2019 11:38:09 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:38:09 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:38:09 INFO: Updating file C:/temp/src\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:38:09 INFO: dirsync finished in 0.23 seconds.
-17-Sep-2019 11:38:09 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:38:09 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:38:09 INFO: 
-17-Sep-2019 11:38:09 DEBUG: Processing #2
-17-Sep-2019 11:38:09 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:38:09 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:38:09 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:38:09 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:38:09 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:38:09 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:38:09 INFO: 
-17-Sep-2019 11:38:09 INFO: Exiting program
-17-Sep-2019 11:39:19 INFO: Starting program
-17-Sep-2019 11:39:19 DEBUG: Processing #1
-17-Sep-2019 11:39:19 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:39:19 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:39:19 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:39:19 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:39:19 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:39:19 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:39:19 INFO: 
-17-Sep-2019 11:39:19 DEBUG: Processing #2
-17-Sep-2019 11:39:19 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:39:19 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:39:19 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:39:19 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:39:19 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:39:19 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:39:19 INFO: 
-17-Sep-2019 11:39:19 INFO: Exiting program
-17-Sep-2019 11:39:47 INFO: Starting program
-17-Sep-2019 11:39:47 DEBUG: Processing #1
-17-Sep-2019 11:39:47 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:39:47 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:39:47 INFO: Updating file C:/temp/src\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:39:47 INFO: dirsync finished in 0.16 seconds.
-17-Sep-2019 11:39:47 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:39:47 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:39:47 INFO: 
-17-Sep-2019 11:39:47 DEBUG: Processing #2
-17-Sep-2019 11:39:47 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:39:47 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:39:47 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
-17-Sep-2019 11:39:47 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:39:47 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:39:47 INFO: 1 files were updated by timestamp.
-17-Sep-2019 11:39:47 INFO: 
-17-Sep-2019 11:39:47 INFO: Exiting program
-17-Sep-2019 11:40:40 INFO: Starting program
-17-Sep-2019 11:40:40 DEBUG: Processing #1
-17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:40:40 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:40 INFO: 
-17-Sep-2019 11:40:40 DEBUG: Processing #1
-17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:40:40 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:40 INFO: 
-17-Sep-2019 11:40:40 DEBUG: Processing #2
-17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:40:40 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:40 INFO: 
-17-Sep-2019 11:40:40 DEBUG: Processing #2
-17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:40:40 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:40 INFO: 
-17-Sep-2019 11:40:40 INFO: Exiting program
-17-Sep-2019 11:40:57 INFO: Starting program
-17-Sep-2019 11:40:57 DEBUG: Processing #1
-17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:40:57 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:57 INFO: 
-17-Sep-2019 11:40:57 DEBUG: Processing #1
-17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:40:57 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:57 INFO: 
-17-Sep-2019 11:40:57 DEBUG: Processing #2
-17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:40:57 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:57 INFO: 
-17-Sep-2019 11:40:57 DEBUG: Processing #2
-17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:40:57 INFO: dirsync finished in 0.10 seconds.
-17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:40:57 INFO: 
-17-Sep-2019 11:40:57 INFO: Exiting program
-17-Sep-2019 11:41:10 INFO: Starting program
-17-Sep-2019 11:41:10 DEBUG: Processing #1
-17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:10 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:10 INFO: 
-17-Sep-2019 11:41:10 DEBUG: Processing #1
-17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:41:10 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:10 INFO: 
-17-Sep-2019 11:41:10 DEBUG: Processing #2
-17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:10 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:10 INFO: 
-17-Sep-2019 11:41:10 DEBUG: Processing #2
-17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:41:10 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:10 INFO: 
-17-Sep-2019 11:41:10 INFO: Exiting program
-17-Sep-2019 11:41:33 INFO: Starting program
-17-Sep-2019 11:41:33 DEBUG: Processing #1
-17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:33 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:33 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:41:33 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:41:33 INFO: 
-17-Sep-2019 11:41:33 DEBUG: Processing #1
-17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:41:33 INFO: Copying file New Text Document dfd.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:33 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:41:33 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:41:33 INFO: 
-17-Sep-2019 11:41:33 DEBUG: Processing #2
-17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:33 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:33 INFO: Copying file New Text Document dfd.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:33 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:41:33 INFO: 13 directories parsed, 2 files copied
-17-Sep-2019 11:41:33 INFO: 
-17-Sep-2019 11:41:33 DEBUG: Processing #2
-17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:41:33 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:41:33 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:33 INFO: 
-17-Sep-2019 11:41:33 INFO: Exiting program
-17-Sep-2019 11:41:50 INFO: Starting program
-17-Sep-2019 11:41:50 DEBUG: Processing #1
-17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:50 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:50 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:41:50 INFO: 
-17-Sep-2019 11:41:50 DEBUG: Processing #1
-17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:41:50 INFO: Copying file New Text Document tttt.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:50 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:41:50 INFO: 
-17-Sep-2019 11:41:50 DEBUG: Processing #2
-17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:41:50 INFO: Copying file New Text Document tttt.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:41:50 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:41:50 INFO: 
-17-Sep-2019 11:41:50 DEBUG: Processing #2
-17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:41:50 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:41:50 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:41:50 INFO: 
-17-Sep-2019 11:41:50 INFO: Exiting program
-17-Sep-2019 11:42:24 INFO: Starting program
-17-Sep-2019 11:42:24 DEBUG: Processing #1
-17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:24 INFO: dirsync finished in 0.10 seconds.
-17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:24 INFO: 
-17-Sep-2019 11:42:24 DEBUG: Processing #1
-17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:42:24 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:24 INFO: 
-17-Sep-2019 11:42:24 DEBUG: Processing #2
-17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:24 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:24 INFO: 
-17-Sep-2019 11:42:24 DEBUG: Processing #2
-17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:42:24 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:24 INFO: 
-17-Sep-2019 11:42:24 INFO: Exiting program
-17-Sep-2019 11:42:36 INFO: Starting program
-17-Sep-2019 11:42:36 DEBUG: Processing #1
-17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document tttt.txt
-17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document.txt
-17-Sep-2019 11:42:36 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:36 INFO: 2 files were purged.
-17-Sep-2019 11:42:36 INFO: 
-17-Sep-2019 11:42:36 DEBUG: Processing #1
-17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:36 INFO: 
-17-Sep-2019 11:42:36 DEBUG: Processing #2
-17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document tttt.txt
-17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document.txt
-17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:36 INFO: 2 files were purged.
-17-Sep-2019 11:42:36 INFO: 
-17-Sep-2019 11:42:36 DEBUG: Processing #2
-17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:36 INFO: 
-17-Sep-2019 11:42:36 INFO: Exiting program
-17-Sep-2019 11:42:51 INFO: Starting program
-17-Sep-2019 11:42:51 DEBUG: Processing #1
-17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:51 INFO: Copying file New Text Document dfd.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:42:51 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:42:51 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:42:51 INFO: 
-17-Sep-2019 11:42:51 DEBUG: Processing #1
-17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:42:51 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:51 INFO: 
-17-Sep-2019 11:42:51 DEBUG: Processing #2
-17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:42:51 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:51 INFO: 
-17-Sep-2019 11:42:51 DEBUG: Processing #2
-17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:42:51 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:42:51 INFO: 
-17-Sep-2019 11:42:51 INFO: Exiting program
-17-Sep-2019 11:44:46 INFO: Starting program
-17-Sep-2019 11:44:46 DEBUG: Processing #1
-17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:44:46 INFO: dirsync finished in 0.10 seconds.
-17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:44:46 INFO: 
-17-Sep-2019 11:44:46 DEBUG: Processing #1
-17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:44:46 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:44:46 INFO: 
-17-Sep-2019 11:44:46 DEBUG: Processing #2
-17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:44:46 INFO: dirsync finished in 0.12 seconds.
-17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:44:46 INFO: 
-17-Sep-2019 11:44:46 DEBUG: Processing #2
-17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:44:46 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:44:46 INFO: 
-17-Sep-2019 11:44:46 INFO: Exiting program
-17-Sep-2019 11:45:11 INFO: Starting program
-17-Sep-2019 11:45:11 DEBUG: Processing #1
-17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:11 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document dfd.txt
-17-Sep-2019 11:45:11 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:11 INFO: 1 files were purged.
-17-Sep-2019 11:45:11 INFO: 
-17-Sep-2019 11:45:11 DEBUG: Processing #1
-17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:45:11 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:11 INFO: 
-17-Sep-2019 11:45:11 DEBUG: Processing #2
-17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:11 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document dfd.txt
-17-Sep-2019 11:45:11 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:11 INFO: 1 files were purged.
-17-Sep-2019 11:45:11 INFO: 
-17-Sep-2019 11:45:11 DEBUG: Processing #2
-17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:45:11 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:11 INFO: 
-17-Sep-2019 11:45:11 INFO: Exiting program
-17-Sep-2019 11:45:32 INFO: Starting program
-17-Sep-2019 11:45:32 DEBUG: Processing #1
-17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:32 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:45:32 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 11:45:32 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:45:32 INFO: 
-17-Sep-2019 11:45:32 DEBUG: Processing #1
-17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:45:32 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 11:45:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:32 INFO: 
-17-Sep-2019 11:45:32 DEBUG: Processing #2
-17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:32 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:45:32 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:45:32 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:45:32 INFO: 
-17-Sep-2019 11:45:32 DEBUG: Processing #2
-17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:45:32 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:45:32 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:32 INFO: 
-17-Sep-2019 11:45:32 INFO: Exiting program
-17-Sep-2019 11:45:40 INFO: Starting program
-17-Sep-2019 11:45:40 DEBUG: Processing #1
-17-Sep-2019 11:45:40 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:45:40 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:40 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:45:40 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 11:45:40 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:45:40 INFO: 
-17-Sep-2019 11:45:40 DEBUG: Processing #1
-17-Sep-2019 11:45:40 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:45:40 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:45:41 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:41 INFO: 
-17-Sep-2019 11:45:41 DEBUG: Processing #2
-17-Sep-2019 11:45:41 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:45:41 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:41 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:41 INFO: 
-17-Sep-2019 11:45:41 DEBUG: Processing #2
-17-Sep-2019 11:45:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:45:41 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:45:41 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:41 INFO: 
-17-Sep-2019 11:45:41 INFO: Exiting program
-17-Sep-2019 11:45:47 INFO: Starting program
-17-Sep-2019 11:45:47 DEBUG: Processing #1
-17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:47 INFO: dirsync finished in 0.09 seconds.
-17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:47 INFO: 
-17-Sep-2019 11:45:47 DEBUG: Processing #1
-17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 11:45:47 INFO: Copying file New Text Document.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
-17-Sep-2019 11:45:47 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:45:47 INFO: 13 directories parsed, 1 files copied
-17-Sep-2019 11:45:47 INFO: 
-17-Sep-2019 11:45:47 DEBUG: Processing #2
-17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/src:
-17-Sep-2019 11:45:47 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:47 INFO: 
-17-Sep-2019 11:45:47 DEBUG: Processing #2
-17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 11:45:47 INFO: dirsync finished in 0.04 seconds.
-17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 11:45:47 INFO: 
-17-Sep-2019 11:45:47 INFO: Exiting program
-17-Sep-2019 13:37:41 INFO: Starting program
-17-Sep-2019 13:38:08 INFO: Starting program
-17-Sep-2019 13:38:08 DEBUG: Processing #1 - Backward pass
-17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/src:
-17-Sep-2019 13:38:08 INFO: dirsync finished in 0.10 seconds.
-17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:08 INFO: 
-17-Sep-2019 13:38:08 DEBUG: Processing #1 - Forward pass
-17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 13:38:08 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:08 INFO: 
-17-Sep-2019 13:38:08 DEBUG: Processing #2 - Backward pass
-17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/src:
-17-Sep-2019 13:38:08 INFO: dirsync finished in 0.06 seconds.
-17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:08 INFO: 
-17-Sep-2019 13:38:08 DEBUG: Processing #2 - Forward pass
-17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 13:38:08 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:08 INFO: 
-17-Sep-2019 13:38:08 INFO: Exiting program
-17-Sep-2019 13:38:48 INFO: Starting program
-17-Sep-2019 13:38:48 DEBUG: Processing #1 - Forward pass
-17-Sep-2019 13:38:48 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-17-Sep-2019 13:38:48 INFO: Source directory: C:/temp/src:
-17-Sep-2019 13:38:48 INFO: dirsync finished in 0.08 seconds.
-17-Sep-2019 13:38:48 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:48 INFO: 
-17-Sep-2019 13:38:48 DEBUG: Processing #1 - Backward pass
-17-Sep-2019 13:38:48 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
-17-Sep-2019 13:38:48 INFO: Source directory: C:/temp/dest:
-17-Sep-2019 13:38:49 INFO: dirsync finished in 0.05 seconds.
-17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:49 INFO: 
-17-Sep-2019 13:38:49 DEBUG: Processing #2 - Forward pass
-17-Sep-2019 13:38:49 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
-17-Sep-2019 13:38:49 INFO: Source directory: C:/temp/src:
-17-Sep-2019 13:38:49 INFO: dirsync finished in 0.07 seconds.
-17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:49 INFO: 
-17-Sep-2019 13:38:49 DEBUG: Processing #2 - Backward pass
-17-Sep-2019 13:38:49 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
-17-Sep-2019 13:38:49 INFO: Source directory: C:/temp/dest1:
-17-Sep-2019 13:38:49 INFO: dirsync finished in 0.03 seconds.
-17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
-17-Sep-2019 13:38:49 INFO: 
-17-Sep-2019 13:38:49 INFO: Exiting program
+17-Sep-2019 16:46:31 INFO: Starting program
+17-Sep-2019 16:46:31 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 16:46:31 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 16:46:31 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 16:46:31 INFO: Copying file EPLC_Implementation_Plan_Template.doc from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\99-Others/Documents to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\99-Others/Documents
+17-Sep-2019 16:46:31 INFO: Copying file Please_DocuSign_Veeva_QDocs_-_Implementation.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:32 INFO: Copying file Veeva QDocs - Implementation Plan v1.9.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:32 INFO: Copying file ~$I_PR_INF_0073 Management of Standard Operating Procedures (SOPs) and Standard Forms (SFs).doc from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:32 INFO: Copying file AGI_WI_INF_chaRM.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/IT to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/IT
+17-Sep-2019 16:46:33 INFO: Copying file Veeva - Task list v1.3.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:33 INFO: Copying file Veeva QMS Program Overview (ERES).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:34 INFO: Copying file AGI_PR_INF_0073 Management of Standard Operating Procedures (SOPs) and Standard Forms (SFs).docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:34 INFO: Copying file Aspen_Swirl_512.png from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/img to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/img
+17-Sep-2019 16:46:34 INFO: Copying file QDocs - Document Details v1.7.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:34 INFO: Copying file Controlled Document Index v1.0.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Document List/Pharma to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Document List/Pharma
+17-Sep-2019 16:46:34 INFO: Copying file ~$eva QDocs - Implementation Plan v1.7.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:35 INFO: Copying file AGI - Procedure Template v1.2.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:35 INFO: Copying file AGI - Procedure 1_effective.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:35 INFO: Copying file AGI - Procedure Template v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:35 INFO: Copying file 3. AGI Template - SOP.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:36 INFO: Copying file Veeva Macro Planning v1.1.pptx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:36 INFO: Copying file AGI - Procedure 2_02 dcc.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:36 INFO: Copying file GEN0001 V11.1 Procedure Template.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/PHA to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/PHA
+17-Sep-2019 16:46:36 INFO: Copying file Veeva Vault - Document List.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:36 INFO: Copying file 3. AGI Template - SOP or WP.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:46:36 INFO: Copying file 4. AGI Template - Work Instruction.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:37 INFO: Copying file ~$QDocs - Document Details v2.3.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:37 INFO: [Errno 13] Permission denied: 'C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\\02-Planning\\~$QDocs - Document Details v2.3.xlsx'
+17-Sep-2019 16:46:37 INFO: Copying file 1. Suggested Template_Policy.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Roshni to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Roshni
+17-Sep-2019 16:46:37 INFO: Copying file Migration Training.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:37 INFO: Copying file 1. AGI Template - Policy.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:37 INFO: Copying file WI list from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:37 INFO: Copying file ~WRD0695.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:38 INFO: Copying file Migration Plan.pptx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/sample to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/sample
+17-Sep-2019 16:46:38 INFO: Copying file Aspen Template Sample v1.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/APTL to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/APTL
+17-Sep-2019 16:46:38 INFO: Copying file 4. Suggested Template_WI.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Roshni to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Roshni
+17-Sep-2019 16:46:38 INFO: Copying file GMAN-GPA-002_QDocss User Manual_FINAL_V1.0-EFF-04Apr2019.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:39 INFO: Copying file Veeva_v1.3.mpp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:40 INFO: Copying file Background study.txt from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\ to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\
+17-Sep-2019 16:46:40 INFO: Copying file PQ Test Document 1 _ABO.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control/Veeva QDocs - Scripts/1 to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control/Veeva QDocs - Scripts/1
+17-Sep-2019 16:46:40 INFO: Copying file AGI - Procedure 2_03 issued_training.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:40 INFO: Copying file Veeva_v1.2.mpp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:41 INFO: Copying file Aspen Template Sample v1.2.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/APTL to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/APTL
+17-Sep-2019 16:46:41 INFO: Copying file AGI - Procedure Template v1.0 _ABO.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/archive
+17-Sep-2019 16:46:41 INFO: Copying file GEN0001 V11.0 Form Template.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/PHA to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/PHA
+17-Sep-2019 16:46:41 INFO: Copying file 5. AGI Template - Standard Form.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:46:42 INFO: Copying file ~$ AGI Template - SOP or WP.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:46:42 INFO: Copying file ~WRL0241.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:42 INFO: Copying file Please_DocuSign_Veeva_-_Project_Charter.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation
+17-Sep-2019 16:46:42 INFO: Copying file QDocs - Document Details v1.9.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:43 INFO: Copying file TEST DOC_Script PQ_GIT_1402Q_0001.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control/Veeva QDocs - Scripts/1 to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control/Veeva QDocs - Scripts/1
+17-Sep-2019 16:46:43 INFO: Copying file User Requirement Specification Electronic Document Management System_v2.0 - Signed.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:43 INFO: Copying file ~WRL2840.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:44 INFO: Copying file GEN0001 V11.0 Work InstructionTemplate.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/PHA to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/PHA
+17-Sep-2019 16:46:44 INFO: Copying file RFC 8000002427 - Veeva QDocs and RIMS - Shortcut.lnk from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\ to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\
+17-Sep-2019 16:46:44 INFO: Copying file AGI - Procedure 2_01 in review.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:44 INFO: Copying file Veeva - Project Charter v1.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation
+17-Sep-2019 16:46:44 INFO: Copying file Veeva Vault - Document Metadata.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:44 INFO: Copying file Veeva Vault QDocs Final Traceability Matrix Approval_v2.0 (Signed).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:44 INFO: Copying file Implementation-and-Migration-Plan.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/sample to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/sample
+17-Sep-2019 16:46:45 INFO: Copying file Veeva Security Workshop.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:45 INFO: Copying file DMStratTemplate V0.5.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/sample to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/sample
+17-Sep-2019 16:46:45 INFO: Copying file ~WRL0485.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:45 INFO: Copying file AGI_PR_INF_0095 Management of Change Control.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\temp to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\temp
+17-Sep-2019 16:46:45 INFO: Copying file telnet_test_ocee@astek.JPG from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:45 INFO: Copying file Veeva Audit Report Finalised.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:48 INFO: Copying file AGI - Policy Template v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:48 INFO: Copying file 3. Suggested Template_SOP or WP.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Roshni to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Roshni
+17-Sep-2019 16:46:48 INFO: Copying file 3. AGI Template - WP.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:48 INFO: Copying file 2. Suggested Template_Manual.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Roshni to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Roshni
+17-Sep-2019 16:46:48 INFO: Copying file Veeva Macro Planning.pptx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:48 INFO: Copying file Veeva CSV Program Overview (ERES).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:48 INFO: Copying file VP_GIT_1402R Veeva RIMS Validation Plan (1).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:49 INFO: Copying file AGI_SF_INF_0151_4.0_AGI System Access Request Form.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/IT to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/IT
+17-Sep-2019 16:46:49 INFO: Copying file Controlled Document Index v1.1.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Document List/Pharma to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Document List/Pharma
+17-Sep-2019 16:46:49 INFO: Copying file AGI - Procedure 2_04 effective.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:49 INFO: Copying file Veeva Macro Planning.png from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:49 INFO: Copying file Data Migration Checklist.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/sample to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/sample
+17-Sep-2019 16:46:50 INFO: Copying file VSR_GIT_1402Q Veeva QDocs Validation Summary Report_v1.0 - Signed.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:50 INFO: Copying file signature page.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:50 INFO: Copying file User Loader Sheet Example.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Loader to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Loader
+17-Sep-2019 16:46:50 INFO: Copying file VSR_GIT_1402R Veeva RIMS Validation Summary Report v1.0.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:51 INFO: Copying file 5. AGI Template - Standard Form.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:51 INFO: Copying file ~WRL0240.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:51 INFO: Copying file Veeva QDocs.mpp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:51 INFO: Copying file AGI - Procedure Template v1.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:51 INFO: Copying file stakeholder-tracking-sheet.xls from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\99-Others/Documents to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\99-Others/Documents
+17-Sep-2019 16:46:52 INFO: Copying file ~WRL1362.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:52 INFO: Copying file Step 1.15 _ ABO.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control/Veeva QDocs - Scripts/1 to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control/Veeva QDocs - Scripts/1
+17-Sep-2019 16:46:52 INFO: Copying file IT-POL-DS05_1 End User Security Policy, v4.0.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/IT to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/IT
+17-Sep-2019 16:46:52 INFO: Copying file AGI - Procedure Template v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/archive
+17-Sep-2019 16:46:52 INFO: Copying file AGI - Standard Form Template v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:52 INFO: Copying file Veeva Security Introduction.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:53 INFO: Copying file 5. Suggested Template_Form.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Roshni to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Roshni
+17-Sep-2019 16:46:53 INFO: Copying file AGI - Procedure 1_draft.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:53 INFO: Copying file AGI_PR_INF_0095_Version 10.0.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/IT to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/IT
+17-Sep-2019 16:46:53 INFO: Copying file AGI - Templates.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final
+17-Sep-2019 16:46:53 INFO: Copying file Veeva QDocs - Implementation Plan v2.3.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:54 INFO: Copying file 1. AGI Template - Policy.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:46:54 INFO: Copying file QDocs - Project Management Plan v1.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:54 INFO: Copying file Veeva QDocs - Implementation Plan.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:55 INFO: Copying file Migration-Document-Sample.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/sample to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/sample
+17-Sep-2019 16:46:55 INFO: Copying file ~$I - Procedure Template v1.2.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:55 INFO: Copying file GEN0001 V11.0 Policy Template.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/PHA to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/PHA
+17-Sep-2019 16:46:55 INFO: Copying file Veeva QDocs - Implementation Plan v2.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:56 INFO: Copying file AGI - Procedure 2_effective.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/archive
+17-Sep-2019 16:46:56 INFO: Copying file ~WRL0228.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:56 INFO: Copying file AGI_PR_INF_0073 Management of Standard Operating Procedures (SOPs) and Standard Forms (SFs).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:56 INFO: Copying file Sandbox_Testing_Account_QDOCS.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control
+17-Sep-2019 16:46:56 INFO: Copying file FDA 21CFR11 Compliance Assessment (ERES).pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:46:56 INFO: Copying file QDocs - Document Details v2.2.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:57 INFO: Copying file 2. AGI Template - Manual.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/rendered to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/rendered
+17-Sep-2019 16:46:57 INFO: Copying file ~WRL0399.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:57 INFO: Copying file QDocs - Document Details v1.8.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:46:57 INFO: Copying file 2. AGI Template - Manual.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:46:57 INFO: Copying file Veeva RIMS.mpp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:58 INFO: Copying file RTM_GIT_1402Q Requirements Traceability Matrix - VEEVA QDocs_20190329.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/QDocs to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/QDocs
+17-Sep-2019 16:46:58 INFO: Copying file AGI_PR_INF_0073 Management of Standard Operating Procedures (SOPs) and Standard Forms (SFs).doc from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:46:58 INFO: Copying file Veeva Macro Planning (1).pptx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning/archive
+17-Sep-2019 16:46:58 INFO: Copying file Veeva QDocs - Implementation Plan v1.8.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:46:59 INFO: Copying file AGI_PR_INF_0095 Management of Change Control.doc from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\temp to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\temp
+17-Sep-2019 16:46:59 INFO: Copying file AGI - Procedure Template v1.2.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/archive
+17-Sep-2019 16:46:59 INFO: Copying file Veeva QDocs - Implementation Plan.docx.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template
+17-Sep-2019 16:47:00 INFO: Copying file DMP-PHA-298-8000002427-001d.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\99-Others to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\99-Others
+17-Sep-2019 16:47:00 INFO: Copying file ~WRL0758.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:01 INFO: Copying file Veeva QDocs - Implementation Plan v1.7.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:02 INFO: Copying file Veeva QDocs - Scripts.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control
+17-Sep-2019 16:47:03 INFO: Copying file AGI - Procedure 2_in review.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/archive to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/archive
+17-Sep-2019 16:47:03 INFO: Copying file AGI - Work Instruction Template v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:47:03 INFO: Copying file 4. AGI Template - Work Instruction.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI/Final/word to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI/Final/word
+17-Sep-2019 16:47:03 INFO: Copying file ~WRL3325.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:04 INFO: Copying file ~WRL0821.tmp from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:04 INFO: Copying file Aspen Template Sample v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/APTL to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/APTL
+17-Sep-2019 16:47:04 INFO: Copying file RTM_GIT_1402R Veeva RIMS Requirements Traceability Matrix v3.0.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Group IT Documents/RIMS to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Group IT Documents/RIMS
+17-Sep-2019 16:47:04 INFO: Copying file QDocs - Document Details v2.1.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:47:05 INFO: Copying file Veeva QDocs - Implementation Plan v1.6.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:05 INFO: Copying file Veeva - Project Charter v1.0.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation
+17-Sep-2019 16:47:06 INFO: Copying file QAS0009 V7 SOP.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Template/AGI to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Template/AGI
+17-Sep-2019 16:47:06 INFO: Copying file SWS_Demo.xls from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\99-Others/Documents to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\99-Others/Documents
+17-Sep-2019 16:47:06 INFO: Copying file Veeva QDocs - Implementation Plan v2.2.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:06 INFO: Copying file QDocs - Document Details v1.6.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning
+17-Sep-2019 16:47:06 INFO: Copying file list of documents.ps1 from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing
+17-Sep-2019 16:47:07 INFO: Copying file Implementation-and-Migration-Plan.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\ to P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\
+17-Sep-2019 16:47:07 INFO: Updating file P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning\Veeva v1.6.mpp
+17-Sep-2019 16:47:07 INFO: Updating file P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control\Veeva QDocs - Scripts\1\PQ_GIT_1402Q_0001_v1.0.docx
+17-Sep-2019 16:47:07 INFO: dirsync finished in 36.5 seconds.
+17-Sep-2019 16:47:07 INFO: 71 directories parsed, 142 files copied
+17-Sep-2019 16:47:07 INFO: 16 directories were created.
+17-Sep-2019 16:47:07 INFO: 2 files were updated by timestamp.
+17-Sep-2019 16:47:07 INFO: 
+17-Sep-2019 16:47:07 INFO: there were errors in copying 1 files.
+17-Sep-2019 16:47:07 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 16:47:07 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 16:47:07 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 16:47:08 INFO: Copying file VP_GIT_1402R Veeva RIMS Validation Plan (1).pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:08 INFO: Copying file AGI IT POLICIES LIST_V3.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Data Migration to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Data Migration
+17-Sep-2019 16:47:08 INFO: Copying file Veeva QDocs minutes_WK37_13-Sep-2019.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\95-Meeting to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\95-Meeting
+17-Sep-2019 16:47:08 INFO: Copying file VSR_GIT_1402Q Veeva QDocs Validation Summary Report_v1.0 - Signed.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:08 INFO: Copying file 8000002427_Impact Evaluation.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation/Impact Evaluation to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation/Impact Evaluation
+17-Sep-2019 16:47:09 INFO: Copying file 2. AGI Template - Manual.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:09 INFO: Copying file AGI - Templates.zip from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates
+17-Sep-2019 16:47:09 INFO: Copying file Thumbs.db from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation
+17-Sep-2019 16:47:09 INFO: Copying file Controlled Document Index v1.1.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Data Migration to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Data Migration
+17-Sep-2019 16:47:09 INFO: Copying file 1. AGI Template - Policy.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:09 INFO: Copying file AGI - Procedure Template v1.2.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/archive to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/archive
+17-Sep-2019 16:47:09 INFO: Copying file Thumbs.db from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation/Impact Evaluation to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation/Impact Evaluation
+17-Sep-2019 16:47:09 INFO: Copying file Controlled Document Index.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\00-Presentation/Document List/Pharma to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\00-Presentation/Document List/Pharma
+17-Sep-2019 16:47:09 INFO: Copying file DMP-PHA-298-8000002427-001 jp.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Draft to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Draft
+17-Sep-2019 16:47:09 INFO: Copying file DMP-PHA-298-8000002427-001_12Aug2019.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Draft to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Draft
+17-Sep-2019 16:47:09 INFO: Copying file Veeva Security Workshop.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:09 INFO: Copying file RTM_GIT_1402R Veeva RIMS Requirements Traceability Matrix v3.0.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:10 INFO: Copying file VSR_GIT_1402R Veeva RIMS Validation Summary Report v1.0.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:10 INFO: Copying file Veeva QDocs - Feedback UAT Report.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing
+17-Sep-2019 16:47:10 INFO: Copying file 5. AGI Template - Standard Form.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:11 INFO: Copying file RTM_GIT_1402Q Requirements Traceability Matrix - VEEVA QDocs_20190329.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:11 INFO: Copying file Scripts.zip from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control
+17-Sep-2019 16:47:12 INFO: Copying file 1. AGI Template - Policy.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:12 INFO: Copying file Veeva Security Introduction.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:12 INFO: Copying file VP-PHA-298-8000002427-001_1.1_Veeva.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning
+17-Sep-2019 16:47:12 INFO: Copying file 3. AGI Template - SOP or WP.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:12 INFO: Copying file DMP-PHA-298-8000002427-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing
+17-Sep-2019 16:47:12 INFO: Copying file Veeva CSV Program Overview (ERES).pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:12 INFO: Copying file 4. AGI Template - Work Instruction.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:13 INFO: Copying file 2. AGI Template - Manual.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:13 INFO: Copying file Veeva Audit Report Finalised.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:14 INFO: Copying file ~$ AGI Template - SOP or WP.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/word to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/word
+17-Sep-2019 16:47:14 INFO: Copying file GMAN-GPA-002_QDocss User Manual_FINAL_V1.0-EFF-04Apr2019.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:15 INFO: Copying file Veeva RIMS - PET form v1.1.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation/PET to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation/PET
+17-Sep-2019 16:47:15 INFO: Copying file TEST DOC_Script PQ_GIT_1402Q_0001_SB.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\04-Monitoring&Control/Veeva QDocs - Scripts/1 to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\04-Monitoring&Control/Veeva QDocs - Scripts/1
+17-Sep-2019 16:47:15 INFO: Copying file User Requirement Specification Electronic Document Management System_v2.0 - Signed.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:16 INFO: Copying file VP-PHA-298-8000002427-001_1.0_Veeva.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning
+17-Sep-2019 16:47:16 INFO: Copying file Thumbs.db from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation/Impact Evaluation/Attached document to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation/Impact Evaluation/Attached document
+17-Sep-2019 16:47:16 INFO: Copying file Veeva QDocs - PET form v1.1.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\01-Initiation/PET to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation/PET
+17-Sep-2019 16:47:16 INFO: Copying file Veeva Vault QDocs Final Traceability Matrix Approval_v2.0 (Signed).pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/QDocs to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/QDocs
+17-Sep-2019 16:47:16 INFO: Copying file 5. AGI Template - Standard Form.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:16 INFO: Copying file FDA 21CFR11 Compliance Assessment (ERES).pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:16 INFO: Copying file 3. AGI Template - WP.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:16 INFO: Copying file DMP-PHA-298-8000002427-001.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Approved to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Approved
+17-Sep-2019 16:47:16 INFO: Copying file Veeva QMS Program Overview (ERES).pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\Group IT Documents/RIMS to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\Group IT Documents/RIMS
+17-Sep-2019 16:47:17 INFO: Copying file 4. AGI Template - Work Instruction.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:17 INFO: Copying file VP-PHA-298-8000002427-001_1.0_Veeva.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\02-Planning
+17-Sep-2019 16:47:17 INFO: Copying file DocCompliance SOPs and SFs.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Data Migration to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Data Migration
+17-Sep-2019 16:47:17 INFO: Copying file 3. AGI Template - SOP.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Templates/rendered to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Templates/rendered
+17-Sep-2019 16:47:17 INFO: Copying file DMP-PHA-298-8000002427-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS\03-Executing/Draft to C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\03-Executing/Draft
+17-Sep-2019 16:47:17 INFO: Updating file C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation\PET\Veeva QDocs - PET form v1.1.xlsx
+17-Sep-2019 16:47:18 INFO: Updating file C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation\PET\Veeva RIMS - PET form v1.1.xlsx
+17-Sep-2019 16:47:18 INFO: Updating file C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva\01-Initiation\Impact Evaluation\Impact Evaluation - Veeva3.docx
+17-Sep-2019 16:47:18 INFO: dirsync finished in 10.6 seconds.
+17-Sep-2019 16:47:18 INFO: 71 directories parsed, 53 files copied
+17-Sep-2019 16:47:18 INFO: 9 directories were created.
+17-Sep-2019 16:47:18 INFO: 3 files were updated by timestamp.
+17-Sep-2019 16:47:18 INFO: 
+17-Sep-2019 16:47:18 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 16:47:18 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 16:47:18 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 16:47:18 INFO: Copying file Disable MET Users - System Access Request Form.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\05-Closing to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\05-Closing
+17-Sep-2019 16:47:18 INFO: Copying file RFC8000002453 - SAP Landscape Simplification - Shortcut.lnk from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\ to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\
+17-Sep-2019 16:47:18 INFO: Copying file Please_DocuSign_Project_Charter_-_SAP_Landsc.zip from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:18 INFO: Copying file SAP LS - Task list v1.9.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:18 INFO: Copying file Project Charter - SAP Landscape Simplification v1.3.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:18 INFO: Copying file SAP LS - Project Tracker.xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\ to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\
+17-Sep-2019 16:47:21 INFO: Copying file Ruhi's copy.pdf from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\05-Closing to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\05-Closing
+17-Sep-2019 16:47:21 INFO: Copying file Project Charter - SAP Landscape Simplification v1.1.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:21 INFO: Copying file Copy of Pre-post upgrade activities (002).xlsx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:22 INFO: Copying file Disable MET Users - System Access Request Form.docx from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\05-Closing to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\05-Closing
+17-Sep-2019 16:47:22 INFO: Copying file SAP LS - Status 10-Sep-2019.msg from C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\97-Mails to P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\97-Mails
+17-Sep-2019 16:47:22 INFO: Updating file P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning\SAP LS v1.2.mpp
+17-Sep-2019 16:47:23 INFO: Updating file P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning\Project Management Plan - SAP Landscape Simplification v1.0.docx
+17-Sep-2019 16:47:23 INFO: dirsync finished in 4.98 seconds.
+17-Sep-2019 16:47:23 INFO: 16 directories parsed, 11 files copied
+17-Sep-2019 16:47:23 INFO: 1 directories were created.
+17-Sep-2019 16:47:23 INFO: 2 files were updated by timestamp.
+17-Sep-2019 16:47:23 INFO: 
+17-Sep-2019 16:47:23 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 16:47:23 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 16:47:23 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 16:47:23 INFO: Copying file ~WRL0638.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:23 INFO: Copying file TEST OBJECTIVE MIP.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\1. Emergency - Lumira to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\1. Emergency - Lumira
+17-Sep-2019 16:47:23 INFO: Copying file IQ-INF-700-8000002453-001_1.0_Draft_ SAP LS.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive/Docs_URS_v1 to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive/Docs_URS_v1
+17-Sep-2019 16:47:23 INFO: Copying file Architecture_ASPEN_AGI.vsd from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL0507.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL3982.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL2576.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:24 INFO: Copying file TEST OBJECTIVE MIT.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\1. Emergency - Lumira to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\1. Emergency - Lumira
+17-Sep-2019 16:47:24 INFO: Copying file URS-INF-700-8000002453-001_1.0_Draft_ SAP LS.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL1252.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL3879.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL1750.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL2827.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:24 INFO: Copying file ~$-INF-700-8000002453-001_1.0_Draft_ SAP LS.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:24 INFO: Copying file ~WRL4099.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:25 INFO: Copying file RE  SAP Landscape Simplification change - deviation.msg from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\1. Emergency - Lumira to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\1. Emergency - Lumira
+17-Sep-2019 16:47:25 INFO: Copying file ~$oject Management Plan - SAP Landscape Simplification v1.0.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:25 INFO: Copying file ~WRL2036.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:25 INFO: Copying file ~$SAP LS - Task list v1.6.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:25 INFO: Copying file IQ-INF-700-8000002453-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:25 INFO: Copying file FS-INF-700-8000002453-001 v1.0.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive
+17-Sep-2019 16:47:25 INFO: Copying file ~WRL1134.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:25 INFO: Copying file VP-INF-700-8000002453.001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:25 INFO: Copying file ~WRL2318.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:25 INFO: Copying file VP-INF-700-8000002453.001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive
+17-Sep-2019 16:47:25 INFO: Copying file FS-INF-700-8000002453-001 v1.0.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:25 INFO: Copying file ~WRL2978.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:25 INFO: Copying file IE-INF-700-8000002453-001_1.0.docx.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Approved to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Approved
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL2011.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL2619.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL3869.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL2656.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file Time Estimator.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL2677.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL0856.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL2886.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL1677.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:26 INFO: Copying file VSR-INF-700-8000002453-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:26 INFO: Copying file IE-INF-700-8000002453-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:26 INFO: Copying file ~WRL3246.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:26 INFO: Copying file Architecture_ASPEN_AGI_v2_06-Aug-2019.vsd from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:27 INFO: Copying file PET_RFC 8000002453.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:27 INFO: Copying file IQ-INF-700-8000002453-001.docx.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Approved to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Approved
+17-Sep-2019 16:47:27 INFO: Copying file ~$SP08 and PPD Decomissioning.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:27 INFO: Copying file SAP LS - Task list v1.6.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:28 INFO: Copying file RE  SR creation for Lumira service uninstallation.msg from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\1. Emergency - Lumira to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\1. Emergency - Lumira
+17-Sep-2019 16:47:28 INFO: Copying file SAP LS - Task list v1.8.xlsx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:28 INFO: Copying file ~WRL2026.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:28 INFO: Copying file ~$SAP Landscape Simplication.pptx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\00-Presentation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\00-Presentation
+17-Sep-2019 16:47:28 INFO: Copying file ~WRL2630.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:28 INFO: Copying file ~WRL2238.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:28 INFO: Copying file IQSR-INF-700-8000002453-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:29 INFO: Copying file ~WRL1147.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:29 INFO: Copying file RTM-INF-700-8000002453-001.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:29 INFO: Copying file ~WRL3691.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:29 INFO: Copying file ~WRL3705.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:29 INFO: Copying file ~WRL0417.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:29 INFO: Copying file URS-INF-700-8000002453-001_2.0.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:29 INFO: Copying file VP-INF-700-8000002453.001.docx.pdf from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Approved to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Approved
+17-Sep-2019 16:47:29 INFO: Copying file RTM-INF-700-8000002453-001_1.0_Draft_ SAP LS.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive/Docs_URS_v1 to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive/Docs_URS_v1
+17-Sep-2019 16:47:29 INFO: Copying file SAP Landscape Simplication.pptx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\0. Business Case to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\0. Business Case
+17-Sep-2019 16:47:30 INFO: Copying file IQSR-INF-700-8000002453-001_1.0_Draft_SAP LS.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive/Docs_URS_v1 to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive/Docs_URS_v1
+17-Sep-2019 16:47:30 INFO: Copying file FS-INF-700-8000002453-001 v1.0_.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\Archive/Docs_URS_v1 to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\Archive/Docs_URS_v1
+17-Sep-2019 16:47:30 INFO: Copying file URS-INF-700-8000002453-001_1.0.docx from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\ to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\
+17-Sep-2019 16:47:30 INFO: Copying file ~WRL1799.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\02-Planning to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\02-Planning
+17-Sep-2019 16:47:30 INFO: Copying file ~WRL1871.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:47:30 INFO: dirsync finished in 7.40 seconds.
+17-Sep-2019 16:47:30 INFO: 16 directories parsed, 66 files copied
+17-Sep-2019 16:47:30 INFO: 4 directories were created.
+17-Sep-2019 16:47:30 INFO: 
+17-Sep-2019 16:47:30 INFO: Exiting program
+17-Sep-2019 16:48:39 INFO: Starting program
+17-Sep-2019 16:48:39 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 16:48:39 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 16:48:39 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 16:48:40 INFO: dirsync finished in 0.50 seconds.
+17-Sep-2019 16:48:40 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 16:48:40 INFO: 
+17-Sep-2019 16:48:40 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 16:48:40 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 16:48:40 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 16:48:40 INFO: dirsync finished in 0.42 seconds.
+17-Sep-2019 16:48:40 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 16:48:40 INFO: 
+17-Sep-2019 16:48:40 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 16:48:40 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 16:48:40 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 16:48:40 INFO: dirsync finished in 0.23 seconds.
+17-Sep-2019 16:48:40 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 16:48:40 INFO: 
+17-Sep-2019 16:48:40 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 16:48:40 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 16:48:40 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 16:48:41 INFO: dirsync finished in 0.14 seconds.
+17-Sep-2019 16:48:41 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 16:48:41 INFO: 
+17-Sep-2019 16:48:41 INFO: Exiting program
+17-Sep-2019 16:50:27 INFO: Starting program
+17-Sep-2019 16:50:27 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 16:50:27 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 16:50:27 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 16:50:28 INFO: dirsync finished in 0.92 seconds.
+17-Sep-2019 16:50:28 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 16:50:28 INFO: 
+17-Sep-2019 16:50:28 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 16:50:28 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 16:50:28 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 16:50:28 INFO: dirsync finished in 0.37 seconds.
+17-Sep-2019 16:50:28 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 16:50:28 INFO: 
+17-Sep-2019 16:50:28 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 16:50:28 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 16:50:28 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 16:50:28 INFO: dirsync finished in 0.23 seconds.
+17-Sep-2019 16:50:28 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 16:50:28 INFO: 
+17-Sep-2019 16:50:28 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 16:50:28 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 16:50:28 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL2011.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL4099.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL2619.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL3982.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL1147.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL3869.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL0638.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL2978.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:28 INFO: Copying file ~WRL2886.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL3879.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL1252.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL1871.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL2656.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL3246.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL2036.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL2318.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL1750.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL1134.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL3705.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:29 INFO: Copying file ~WRL3691.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: Copying file ~WRL2576.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: Copying file ~WRL0856.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: Copying file ~WRL2238.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: Copying file ~WRL2026.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: Copying file ~WRL2677.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 16:50:30 INFO: dirsync finished in 1.82 seconds.
+17-Sep-2019 16:50:30 INFO: 16 directories parsed, 25 files copied
+17-Sep-2019 16:50:30 INFO: 
+17-Sep-2019 16:50:30 INFO: Exiting program
+17-Sep-2019 17:09:38 INFO: Starting program
+17-Sep-2019 17:09:38 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 17:09:38 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 17:09:38 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 17:09:39 INFO: dirsync finished in 0.90 seconds.
+17-Sep-2019 17:09:39 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:09:39 INFO: 
+17-Sep-2019 17:09:39 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 17:09:39 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 17:09:39 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 17:09:40 INFO: dirsync finished in 0.34 seconds.
+17-Sep-2019 17:09:40 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:09:40 INFO: 
+17-Sep-2019 17:09:40 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 17:09:40 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 17:09:40 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 17:09:40 INFO: dirsync finished in 0.21 seconds.
+17-Sep-2019 17:09:40 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 17:09:40 INFO: 
+17-Sep-2019 17:09:40 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 17:09:40 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 17:09:40 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2318.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL1134.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL1750.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2026.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3246.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2656.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3869.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2238.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2886.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL4099.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2576.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3705.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2011.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL0638.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3982.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3691.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2677.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL1147.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL3879.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2036.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL1871.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:40 INFO: Copying file ~WRL2619.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:41 INFO: Copying file ~WRL0856.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:41 INFO: Copying file ~WRL2978.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:41 INFO: Copying file ~WRL1252.tmp from P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification\01-Initiation to C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification\01-Initiation
+17-Sep-2019 17:09:41 INFO: dirsync finished in 0.85 seconds.
+17-Sep-2019 17:09:41 INFO: 16 directories parsed, 25 files copied
+17-Sep-2019 17:09:41 INFO: 
+17-Sep-2019 17:09:41 INFO: Exiting program
+17-Sep-2019 17:11:06 INFO: Starting program
+17-Sep-2019 17:11:06 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 17:11:06 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 17:11:06 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 17:11:06 INFO: dirsync finished in 0.48 seconds.
+17-Sep-2019 17:11:06 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:11:06 INFO: 
+17-Sep-2019 17:11:06 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 17:11:06 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 17:11:06 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 17:11:06 INFO: dirsync finished in 0.35 seconds.
+17-Sep-2019 17:11:06 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:11:06 INFO: 
+17-Sep-2019 17:11:06 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 17:11:06 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 17:11:06 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 17:11:07 INFO: dirsync finished in 0.16 seconds.
+17-Sep-2019 17:11:07 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 17:11:07 INFO: 
+17-Sep-2019 17:11:07 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 17:11:07 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 17:11:07 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 17:11:07 INFO: dirsync finished in 0.13 seconds.
+17-Sep-2019 17:11:07 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 17:11:07 INFO: 
+17-Sep-2019 17:11:07 INFO: Exiting program
+17-Sep-2019 17:12:47 INFO: Starting program
+17-Sep-2019 17:12:47 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 17:12:47 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS with C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva
+17-Sep-2019 17:12:47 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva:
+17-Sep-2019 17:12:48 INFO: dirsync finished in 0.82 seconds.
+17-Sep-2019 17:12:48 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:12:48 INFO: 
+17-Sep-2019 17:12:48 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 17:12:48 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/Veeva with P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS
+17-Sep-2019 17:12:48 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC 8000002427 - Veeva QDocs and RIMS:
+17-Sep-2019 17:12:48 INFO: dirsync finished in 0.36 seconds.
+17-Sep-2019 17:12:48 INFO: 71 directories parsed, 0 files copied
+17-Sep-2019 17:12:48 INFO: 
+17-Sep-2019 17:12:48 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 17:12:48 INFO: Synchronizing directory P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification with C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification
+17-Sep-2019 17:12:48 INFO: Source directory: C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification:
+17-Sep-2019 17:12:49 INFO: dirsync finished in 0.26 seconds.
+17-Sep-2019 17:12:49 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 17:12:49 INFO: 
+17-Sep-2019 17:12:49 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 17:12:49 INFO: Synchronizing directory C:/Users/ABuchoo.cnslt/Documents/Projects/SAP Landscape Simplification with P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification
+17-Sep-2019 17:12:49 INFO: Source directory: P:/IT/IT Quality/$ Validation/Working Papers/RFC8000002453 - SAP Landscape Simplification:
+17-Sep-2019 17:12:49 INFO: dirsync finished in 0.14 seconds.
+17-Sep-2019 17:12:49 INFO: 16 directories parsed, 0 files copied
+17-Sep-2019 17:12:49 INFO: 
+17-Sep-2019 17:12:49 INFO: Exiting program
