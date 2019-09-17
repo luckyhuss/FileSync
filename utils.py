@@ -6,6 +6,7 @@
 
 import io
 import os
+import sys
 import time
 from contextlib import redirect_stdout
 
@@ -19,6 +20,9 @@ PATH_LOG = os.path.normpath(PATH_BASE + "/logs")
 
 # application files
 FILE_LOG = os.path.normpath(PATH_LOG + "/main.log")
+
+# application variables
+purge = False
 
 def error(e):
 	mylogger.logger.error("Error {0}".format(e))
@@ -40,24 +44,18 @@ def stopTimer(startTimer):
 	# set time taken to execute statement
 	return str(round(time.time() - startTimer, 2))
 
-
-
-def directorySync(PATH_SRC, PATH_DEST):
+def directorySync(key, PATH_SRC, PATH_DEST, backwardPass):
 	"""Sync the folders"""
 
-	debug("{0} {1}".format(PATH_SRC, PATH_DEST))
+	debug("Processing #{0} - {1}".format(key, "Forward pass" if not backwardPass else "Backward pass"))
 
 	# set start time
-	start = startTimer()
+	# start = startTimer()
 
-	f = io.StringIO()
-	with redirect_stdout(f):
-		sync(PATH_SRC, PATH_DEST, "sync", purge=False, verbose=True)
-	out = f.getvalue()
+	# sync current folder
+	sync(PATH_SRC, PATH_DEST, "sync", logger=mylogger.logger, twoway=False, create=True, purge=purge, verbose=True)
 
-	info("\r\n" + out)
-
-	info("{0} seconds to update albums error".format(stopTimer(start)))
+	# info("{0} seconds to update files".format(stopTimer(start)))
 
 def formatDateTime(format):
 	"""Return a formated date/time depending on format"""
@@ -71,9 +69,3 @@ def clearScreen():
 	else:
 		# linux
 		os.system("clear")
-
-def bool(value):
-	"""Convert a value (yes|true|t|1) to bool"""
-	# cast to string
-	value = str(value)
-	return value.lower() in ("yes", "true", "t", "1")

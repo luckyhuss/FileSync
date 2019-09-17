@@ -1,0 +1,450 @@
+16/09/2019 14:21:02 INFO: Starting program with BASE : C:\Users\ABuchoo.cnslt\Cloud\Dropbox\WinApp\FileSync
+16/09/2019 14:21:02 INFO: Exiting program
+16/09/2019 14:21:56 INFO: Starting program
+16/09/2019 14:21:57 INFO: Exiting program
+16/09mm/2019 14:22:21 INFO: Starting program
+16/09mm/2019 14:22:21 INFO: Exiting program
+16/Sep/2019 14:25:44 INFO: Starting program
+16/Sep/2019 14:25:45 INFO: Exiting program
+16-Sep-2019 14:26:08 INFO: Starting program
+16-Sep-2019 14:26:08 INFO: Exiting program
+16-Sep-2019 14:29:49 INFO: Starting program
+16-Sep-2019 14:29:49 INFO: Exiting program
+16-Sep-2019 14:30:06 INFO: Starting program
+16-Sep-2019 14:30:06 INFO: set()
+16-Sep-2019 14:30:06 INFO: Exiting program
+16-Sep-2019 14:31:31 INFO: Starting program
+16-Sep-2019 14:31:31 INFO: Exiting program
+16-Sep-2019 14:31:45 INFO: Starting program
+16-Sep-2019 14:31:45 INFO: Exiting program
+16-Sep-2019 14:31:53 INFO: Starting program
+16-Sep-2019 14:31:53 INFO: Exiting program
+16-Sep-2019 14:32:10 INFO: Starting program
+16-Sep-2019 14:32:10 INFO: Exiting program
+16-Sep-2019 14:32:12 INFO: Starting program
+16-Sep-2019 14:32:12 INFO: Exiting program
+16-Sep-2019 14:32:18 INFO: Starting program
+16-Sep-2019 14:32:18 INFO: Exiting program
+16-Sep-2019 14:32:25 INFO: Starting program
+16-Sep-2019 14:32:25 INFO: Exiting program
+16-Sep-2019 14:33:29 INFO: Starting program
+16-Sep-2019 14:33:30 INFO: Exiting program
+16-Sep-2019 14:33:34 INFO: Starting program
+16-Sep-2019 14:33:34 INFO: Exiting program
+16-Sep-2019 14:37:05 INFO: Starting program
+16-Sep-2019 14:38:24 INFO: Starting program
+16-Sep-2019 14:38:24 INFO: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+16-Sep-2019 14:38:24 INFO: Exiting program
+16-Sep-2019 14:45:17 INFO: Starting program
+16-Sep-2019 14:45:17 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.09 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:45:17 INFO: Exiting program
+16-Sep-2019 14:45:42 INFO: Starting program
+16-Sep-2019 14:45:42 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:45:42 INFO: Exiting program
+16-Sep-2019 14:46:56 INFO: Starting program
+16-Sep-2019 14:47:12 INFO: Starting program
+16-Sep-2019 14:48:00 INFO: Starting program
+16-Sep-2019 14:48:21 INFO: Starting program
+16-Sep-2019 14:48:22 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.15 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:48:22 INFO: 0.15 seconds to update albums error
+16-Sep-2019 14:48:22 INFO: Exiting program
+16-Sep-2019 14:48:34 INFO: Starting program
+16-Sep-2019 14:48:34 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:48:34 INFO: 0.07 seconds to update albums error
+16-Sep-2019 14:48:34 INFO: Exiting program
+16-Sep-2019 14:51:01 INFO: Starting program
+16-Sep-2019 14:51:01 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:51:01 INFO: 0.08 seconds to update albums error
+16-Sep-2019 14:51:01 INFO: Exiting program
+16-Sep-2019 14:51:31 INFO: Starting program
+16-Sep-2019 14:51:31 INFO: 
+16-Sep-2019 14:51:31 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.09 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:51:31 INFO: 0.1 seconds to update albums error
+16-Sep-2019 14:51:31 INFO: Exiting program
+16-Sep-2019 14:52:54 INFO: Starting program
+16-Sep-2019 14:52:54 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:52:54 INFO: 0.08 seconds to update albums error
+16-Sep-2019 14:52:54 INFO: Exiting program
+16-Sep-2019 14:54:20 INFO: Starting program
+16-Sep-2019 14:54:20 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.12 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:54:20 INFO: 0.12 seconds to update albums error
+16-Sep-2019 14:54:20 INFO: Exiting program
+16-Sep-2019 14:57:44 INFO: Starting program
+16-Sep-2019 14:57:44 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:57:44 INFO: 0.07 seconds to update albums error
+16-Sep-2019 14:57:44 INFO: Exiting program
+16-Sep-2019 14:57:53 INFO: Starting program
+16-Sep-2019 14:59:49 INFO: Starting program
+16-Sep-2019 14:59:55 INFO: Starting program
+16-Sep-2019 14:59:55 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 14:59:55 INFO: 0.1 seconds to update albums error
+16-Sep-2019 14:59:55 INFO: Exiting program
+16-Sep-2019 15:00:07 INFO: Starting program
+16-Sep-2019 15:00:08 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:00:08 INFO: 0.08 seconds to update albums error
+16-Sep-2019 15:00:08 INFO: Exiting program
+16-Sep-2019 15:00:21 INFO: Starting program
+16-Sep-2019 15:00:21 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:00:21 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:00:21 INFO: Exiting program
+16-Sep-2019 15:00:28 INFO: Starting program
+16-Sep-2019 15:00:28 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:00:28 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:00:28 INFO: Exiting program
+16-Sep-2019 15:02:18 INFO: Starting program
+16-Sep-2019 15:02:18 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:02:18 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:02:18 INFO: Exiting program
+16-Sep-2019 15:03:30 INFO: Starting program
+16-Sep-2019 15:03:30 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:03:30 INFO: 0.08 seconds to update albums error
+16-Sep-2019 15:03:30 INFO: Exiting program
+16-Sep-2019 15:04:49 INFO: Starting program
+16-Sep-2019 15:04:50 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+Copying file New QlikView Document.qvw from C:/temp/src\Project Management/02 Planning to C:/temp/dest\Project Management/02 Planning
+dirsync finished in 0.09 seconds.
+13 directories parsed, 1 files copied
+
+
+16-Sep-2019 15:04:50 INFO: 0.09 seconds to update albums error
+16-Sep-2019 15:04:50 INFO: 
+
+
+16-Sep-2019 15:04:50 INFO: 0.06 seconds to update albums error
+16-Sep-2019 15:04:50 INFO: Exiting program
+16-Sep-2019 15:05:20 INFO: Starting program
+16-Sep-2019 15:05:20 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:05:20 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:05:20 INFO: 
+
+
+16-Sep-2019 15:05:20 INFO: 0.03 seconds to update albums error
+16-Sep-2019 15:05:20 INFO: Exiting program
+16-Sep-2019 15:06:15 INFO: Starting program
+16-Sep-2019 15:06:15 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:06:15 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:06:15 INFO: 
+
+
+16-Sep-2019 15:06:15 INFO: 0.03 seconds to update albums error
+16-Sep-2019 15:06:15 INFO: Exiting program
+16-Sep-2019 15:07:30 INFO: Starting program
+16-Sep-2019 15:07:30 WARNING: C:/temp/src C:/temp/dest
+16-Sep-2019 15:07:30 INFO: 
+
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:07:30 INFO: 0.08 seconds to update albums error
+16-Sep-2019 15:07:30 WARNING: C:/temp/dest C:/temp/src
+16-Sep-2019 15:07:30 INFO: 
+
+
+16-Sep-2019 15:07:30 INFO: 0.1 seconds to update albums error
+16-Sep-2019 15:07:30 INFO: Exiting program
+16-Sep-2019 15:08:58 INFO: Starting program
+16-Sep-2019 15:08:58 WARNING: C:/temp/dest C:/temp/src
+16-Sep-2019 15:08:59 INFO: 
+
+Synchronizing directory C:/temp/src with C:/temp/dest
+Source directory: C:/temp/dest:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:08:59 INFO: 0.08 seconds to update albums error
+16-Sep-2019 15:08:59 WARNING: C:/temp/src C:/temp/dest
+16-Sep-2019 15:08:59 INFO: 
+
+
+16-Sep-2019 15:08:59 INFO: 0.04 seconds to update albums error
+16-Sep-2019 15:08:59 INFO: Exiting program
+16-Sep-2019 15:09:59 INFO: Starting program
+16-Sep-2019 15:09:59 WARNING: C:/temp/src C:/temp/dest
+16-Sep-2019 15:09:59 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 15:09:59 INFO: 0.07 seconds to update albums error
+16-Sep-2019 15:09:59 WARNING: C:/temp/dest C:/temp/src
+16-Sep-2019 15:09:59 INFO: 
+
+16-Sep-2019 15:09:59 INFO: 0.05 seconds to update albums error
+16-Sep-2019 15:09:59 INFO: Exiting program
+16-Sep-2019 15:10:35 INFO: Starting program
+16-Sep-2019 15:10:35 WARNING: C:/temp/src C:/temp/dest
+16-Sep-2019 15:10:35 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+Copying file New Microsoft PowerPoint Presentation.pptx from C:/temp/src\Project Management/02 Planning to C:/temp/dest\Project Management/02 Planning
+dirsync finished in 0.08 seconds.
+13 directories parsed, 1 files copied
+
+
+16-Sep-2019 15:10:35 INFO: 0.08 seconds to update albums error
+16-Sep-2019 15:10:35 WARNING: C:/temp/dest C:/temp/src
+16-Sep-2019 15:10:36 INFO: 
+
+16-Sep-2019 15:10:36 INFO: 0.04 seconds to update albums error
+16-Sep-2019 15:10:36 INFO: Exiting program
+16-Sep-2019 17:05:45 INFO: Starting program
+16-Sep-2019 17:05:45 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:05:45 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.09 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:05:45 INFO: 0.11 seconds to update albums error
+16-Sep-2019 17:05:45 DEBUG: C:/temp/dest C:/temp/src
+16-Sep-2019 17:05:46 INFO: 
+
+16-Sep-2019 17:05:46 INFO: 0.04 seconds to update albums error
+16-Sep-2019 17:05:46 INFO: Exiting program
+16-Sep-2019 17:06:56 INFO: Starting program
+16-Sep-2019 17:06:56 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:06:56 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:06:56 INFO: 0.08 seconds to update albums error
+16-Sep-2019 17:06:56 DEBUG: C:/temp/scr C:/temp/dest1
+16-Sep-2019 17:07:06 INFO: Starting program
+16-Sep-2019 17:07:06 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:07:06 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:07:06 INFO: 0.06 seconds to update albums error
+16-Sep-2019 17:07:06 DEBUG: C:/temp/scr C:/temp/dest1
+16-Sep-2019 17:25:48 INFO: Starting program
+16-Sep-2019 17:25:48 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:25:48 INFO: 
+Updating directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.05 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:25:48 INFO: 0.06 seconds to update albums error
+16-Sep-2019 17:25:48 DEBUG: C:/temp/scr C:/temp/dest1
+16-Sep-2019 17:26:13 INFO: Starting program
+16-Sep-2019 17:26:13 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:26:13 INFO: 
+Updating directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:26:13 INFO: 0.06 seconds to update albums error
+16-Sep-2019 17:26:13 DEBUG: C:/temp/scr C:/temp/dest1
+16-Sep-2019 17:26:28 INFO: Starting program
+16-Sep-2019 17:26:28 DEBUG: C:/temp/src C:/temp/dest1
+16-Sep-2019 17:26:28 INFO: 
+Synchronizing directory C:/temp/dest1 with C:/temp/src
+Source directory: C:/temp/src:
+Copying file 04 Project Status Report - FY20 Technology Program - WE11-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 08 Project Closure Report [Template].docx from C:/temp/src\Project Management/05 Closure to C:/temp/dest1\Project Management/05 Closure
+Copying file 04 Project Steering Committee Minutes - FY20 Technology Program - August-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file Project Tracker RFC - 8000002473 - MS Exchange Online.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file Thumbs.db from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file Project Tracker RFC - 8000002471 - Server Room Remediation.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 04 Project Status Report - FY20 Technology Program - WE18-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file FY20 Technology Program - PET Template.xlsx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
+Copying file FY20 Technology Program Schedule.xlsx from C:/temp/src\Project Management/04 Monitoring & Control/Schedule Updates (Reporting to Zahir) to C:/temp/dest1\Project Management/04 Monitoring & Control/Schedule Updates (Reporting to Zahir)
+Copying file New Microsoft Word Document.docx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
+Copying file New Microsoft PowerPoint Presentation.pptx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
+Copying file New QlikView Document.qvw from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
+Copying file Thumbs.db from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
+Copying file 05 Project Change Request [Template].docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
+Copying file ~$ Project Charter - FY20 Technology Program.docx from C:/temp/src\Project Management/01 Initiation/01 Project Charter to C:/temp/dest1\Project Management/01 Initiation/01 Project Charter
+Copying file 03 Major Project Management Plan [Template].docx from C:/temp/src\Project Management/02 Planning/testtt to C:/temp/dest1\Project Management/02 Planning/testtt
+Copying file Project Tracker RFC - 8000002469 - File Archiving to Cloud.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 04 Project Status Report [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 04 Project Status Report - FY20 Technology Program - WE01-Sep-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 04 Project Status Report - FY20 Technology Program - WE11-Aug-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file FW  CAB Updates - 14 Aug 2019.msg from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
+Copying file Master Schedule - FY20 Technology Program.mpp from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
+Copying file Projects New PET form - Template.xlsx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
+Copying file Presentation - FY20 Technology Program SteerCo.pptx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file Project Tracker RFC - 8000002467 - MS SharePoint Online.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file Project Tracker RFC - 8000002539 - FY20 Infrastructure as a Service.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 04 Project Status Report - FY20 Technology Program - WE01-Sep-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 04 Project Status Report - FY20 Technology Program - WE08-Sep-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 04 Project Steering Committee Minutes - FY20 Technology Program - August-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file Presentation - FY20 Technology Program Master Pack.pptx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
+Copying file File Archiving to Cloud_ IT Demand request form.docx from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+Copying file MS SharePoint Online_ IT Demand request form.docx from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+Copying file ~$ Project Status Report - FY20 Technology Program - WE11-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file Project Tracker RFC - 8000002472 - IT Communications Maintenance.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 04 Project Status Report - FY20 Technology Program - WE08-Sep-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+Copying file 06 Formal Acceptance Form [Template] .docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
+Copying file 04 Project Steering Committee Minutes [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file New Microsoft Excel Worksheet.xlsx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
+Copying file 07 Team Performance Assessment [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 03 Project Management Plan [Template].docx from C:/temp/src\Project Management/02 Planning/testtt to C:/temp/dest1\Project Management/02 Planning/testtt
+Copying file Project Tracker RFC - 8000002470 - MS SCCM Upgrade.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
+Copying file 02 Project Charter - FY20 Technology Program.docx from C:/temp/src\Project Management/01 Initiation/01 Project Charter to C:/temp/dest1\Project Management/01 Initiation/01 Project Charter
+Copying file 06 Transition Acceptance Form [Template].docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
+Copying file 04 Project Status Report - FY20 Technology Program - WE18-Aug-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
+dirsync finished in 0.47 seconds.
+13 directories parsed, 44 files copied
+11 directories were created.
+
+
+16-Sep-2019 17:26:28 INFO: 0.47 seconds to update albums error
+16-Sep-2019 17:26:28 INFO: Exiting program
+16-Sep-2019 17:27:08 INFO: Starting program
+16-Sep-2019 17:27:08 DEBUG: C:/temp/src C:/temp/dest1
+16-Sep-2019 17:27:08 INFO: 
+Synchronizing directory C:/temp/dest1 with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:27:08 INFO: 0.07 seconds to update albums error
+16-Sep-2019 17:27:08 INFO: Exiting program
+16-Sep-2019 17:37:46 INFO: Starting program
+16-Sep-2019 17:38:08 INFO: Starting program
+16-Sep-2019 17:38:08 DEBUG: 1 <__main__.SyncObject object at 0x000001FC1D0E1308>
+16-Sep-2019 17:38:44 INFO: Starting program
+16-Sep-2019 17:38:52 INFO: Starting program
+16-Sep-2019 17:38:52 DEBUG: C:/temp/src C:/temp/dest
+16-Sep-2019 17:38:53 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.07 seconds.
+13 directories parsed, 0 files copied
+
+
+16-Sep-2019 17:38:53 INFO: 0.08 seconds to update albums error
+16-Sep-2019 17:38:53 DEBUG: C:/temp/src C:/temp/dest1
+16-Sep-2019 17:38:53 INFO: 
+
+16-Sep-2019 17:38:53 INFO: 0.06 seconds to update albums error
+16-Sep-2019 17:38:53 INFO: Exiting program

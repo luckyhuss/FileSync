@@ -1,450 +1,1282 @@
-16/09/2019 14:21:02 INFO: Starting program with BASE : C:\Users\ABuchoo.cnslt\Cloud\Dropbox\WinApp\FileSync
-16/09/2019 14:21:02 INFO: Exiting program
-16/09/2019 14:21:56 INFO: Starting program
-16/09/2019 14:21:57 INFO: Exiting program
-16/09mm/2019 14:22:21 INFO: Starting program
-16/09mm/2019 14:22:21 INFO: Exiting program
-16/Sep/2019 14:25:44 INFO: Starting program
-16/Sep/2019 14:25:45 INFO: Exiting program
-16-Sep-2019 14:26:08 INFO: Starting program
-16-Sep-2019 14:26:08 INFO: Exiting program
-16-Sep-2019 14:29:49 INFO: Starting program
-16-Sep-2019 14:29:49 INFO: Exiting program
-16-Sep-2019 14:30:06 INFO: Starting program
-16-Sep-2019 14:30:06 INFO: set()
-16-Sep-2019 14:30:06 INFO: Exiting program
-16-Sep-2019 14:31:31 INFO: Starting program
-16-Sep-2019 14:31:31 INFO: Exiting program
-16-Sep-2019 14:31:45 INFO: Starting program
-16-Sep-2019 14:31:45 INFO: Exiting program
-16-Sep-2019 14:31:53 INFO: Starting program
-16-Sep-2019 14:31:53 INFO: Exiting program
-16-Sep-2019 14:32:10 INFO: Starting program
-16-Sep-2019 14:32:10 INFO: Exiting program
-16-Sep-2019 14:32:12 INFO: Starting program
-16-Sep-2019 14:32:12 INFO: Exiting program
-16-Sep-2019 14:32:18 INFO: Starting program
-16-Sep-2019 14:32:18 INFO: Exiting program
-16-Sep-2019 14:32:25 INFO: Starting program
-16-Sep-2019 14:32:25 INFO: Exiting program
-16-Sep-2019 14:33:29 INFO: Starting program
-16-Sep-2019 14:33:30 INFO: Exiting program
-16-Sep-2019 14:33:34 INFO: Starting program
-16-Sep-2019 14:33:34 INFO: Exiting program
-16-Sep-2019 14:37:05 INFO: Starting program
-16-Sep-2019 14:38:24 INFO: Starting program
-16-Sep-2019 14:38:24 INFO: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
-16-Sep-2019 14:38:24 INFO: Exiting program
-16-Sep-2019 14:45:17 INFO: Starting program
-16-Sep-2019 14:45:17 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:45:17 INFO: Exiting program
-16-Sep-2019 14:45:42 INFO: Starting program
-16-Sep-2019 14:45:42 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:45:42 INFO: Exiting program
-16-Sep-2019 14:46:56 INFO: Starting program
-16-Sep-2019 14:47:12 INFO: Starting program
-16-Sep-2019 14:48:00 INFO: Starting program
-16-Sep-2019 14:48:21 INFO: Starting program
-16-Sep-2019 14:48:22 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.15 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:48:22 INFO: 0.15 seconds to update albums error
-16-Sep-2019 14:48:22 INFO: Exiting program
-16-Sep-2019 14:48:34 INFO: Starting program
-16-Sep-2019 14:48:34 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:48:34 INFO: 0.07 seconds to update albums error
-16-Sep-2019 14:48:34 INFO: Exiting program
-16-Sep-2019 14:51:01 INFO: Starting program
-16-Sep-2019 14:51:01 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:51:01 INFO: 0.08 seconds to update albums error
-16-Sep-2019 14:51:01 INFO: Exiting program
-16-Sep-2019 14:51:31 INFO: Starting program
-16-Sep-2019 14:51:31 INFO: 
-16-Sep-2019 14:51:31 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.09 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:51:31 INFO: 0.1 seconds to update albums error
-16-Sep-2019 14:51:31 INFO: Exiting program
-16-Sep-2019 14:52:54 INFO: Starting program
-16-Sep-2019 14:52:54 INFO: 
-
+17-Sep-2019 09:53:13 INFO: Starting program
+17-Sep-2019 09:53:13 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:53:13 INFO: 0.1 seconds to update albums error
+17-Sep-2019 09:53:13 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:53:13 INFO: 0.05 seconds to update albums error
+17-Sep-2019 09:53:13 INFO: Exiting program
+17-Sep-2019 09:53:29 INFO: Starting program
+17-Sep-2019 09:53:29 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:53:29 INFO: 0.11 seconds to update albums error
+17-Sep-2019 09:53:29 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:53:29 INFO: 0.08 seconds to update albums error
+17-Sep-2019 09:53:29 INFO: Exiting program
+17-Sep-2019 09:53:31 INFO: Starting program
+17-Sep-2019 09:53:31 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:53:31 INFO: 0.08 seconds to update albums error
+17-Sep-2019 09:53:31 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:53:31 INFO: 0.1 seconds to update albums error
+17-Sep-2019 09:53:31 INFO: Exiting program
+17-Sep-2019 09:57:28 INFO: Starting program
+17-Sep-2019 09:57:28 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:57:28 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.08 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 14:52:54 INFO: 0.08 seconds to update albums error
-16-Sep-2019 14:52:54 INFO: Exiting program
-16-Sep-2019 14:54:20 INFO: Starting program
-16-Sep-2019 14:54:20 INFO: 
+17-Sep-2019 09:57:28 INFO: 0.08 seconds to update albums error
+17-Sep-2019 09:57:28 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:57:28 INFO: 
 
+17-Sep-2019 09:57:28 INFO: 0.06 seconds to update albums error
+17-Sep-2019 09:57:28 INFO: Exiting program
+17-Sep-2019 09:58:03 INFO: Starting program
+17-Sep-2019 09:58:03 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:58:03 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.10 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 09:58:03 INFO: 0.1 seconds to update albums error
+17-Sep-2019 09:58:03 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:58:03 INFO: 
+
+17-Sep-2019 09:58:03 INFO: 0.14 seconds to update albums error
+17-Sep-2019 09:58:03 INFO: Exiting program
+17-Sep-2019 09:58:06 INFO: Starting program
+17-Sep-2019 09:58:06 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 09:58:06 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 09:58:06 INFO: 0.07 seconds to update albums error
+17-Sep-2019 09:58:06 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 09:58:06 INFO: 
+
+17-Sep-2019 09:58:06 INFO: 0.09 seconds to update albums error
+17-Sep-2019 09:58:06 INFO: Exiting program
+17-Sep-2019 10:02:01 INFO: Starting program
+17-Sep-2019 10:02:01 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:02:01 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.12 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 14:54:20 INFO: 0.12 seconds to update albums error
-16-Sep-2019 14:54:20 INFO: Exiting program
-16-Sep-2019 14:57:44 INFO: Starting program
-16-Sep-2019 14:57:44 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 14:57:44 INFO: 0.07 seconds to update albums error
-16-Sep-2019 14:57:44 INFO: Exiting program
-16-Sep-2019 14:57:53 INFO: Starting program
-16-Sep-2019 14:59:49 INFO: Starting program
-16-Sep-2019 14:59:55 INFO: Starting program
-16-Sep-2019 14:59:55 INFO: 
-
+17-Sep-2019 10:02:14 INFO: Starting program
+17-Sep-2019 10:02:14 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:02:14 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.08 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 14:59:55 INFO: 0.1 seconds to update albums error
-16-Sep-2019 14:59:55 INFO: Exiting program
-16-Sep-2019 15:00:07 INFO: Starting program
-16-Sep-2019 15:00:08 INFO: 
+17-Sep-2019 10:02:14 INFO: 0.09 seconds to update albums error
+17-Sep-2019 10:02:14 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:02:14 INFO: 
 
+17-Sep-2019 10:02:14 INFO: 0.05 seconds to update albums error
+17-Sep-2019 10:02:14 INFO: Exiting program
+17-Sep-2019 10:02:37 INFO: Starting program
+17-Sep-2019 10:02:37 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:02:38 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:00:08 INFO: 0.08 seconds to update albums error
-16-Sep-2019 15:00:08 INFO: Exiting program
-16-Sep-2019 15:00:21 INFO: Starting program
-16-Sep-2019 15:00:21 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:00:21 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:00:21 INFO: Exiting program
-16-Sep-2019 15:00:28 INFO: Starting program
-16-Sep-2019 15:00:28 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:00:28 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:00:28 INFO: Exiting program
-16-Sep-2019 15:02:18 INFO: Starting program
-16-Sep-2019 15:02:18 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:02:18 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:02:18 INFO: Exiting program
-16-Sep-2019 15:03:30 INFO: Starting program
-16-Sep-2019 15:03:30 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:03:30 INFO: 0.08 seconds to update albums error
-16-Sep-2019 15:03:30 INFO: Exiting program
-16-Sep-2019 15:04:49 INFO: Starting program
-16-Sep-2019 15:04:50 INFO: 
-
-Synchronizing directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-Copying file New QlikView Document.qvw from C:/temp/src\Project Management/02 Planning to C:/temp/dest\Project Management/02 Planning
 dirsync finished in 0.09 seconds.
-13 directories parsed, 1 files copied
+13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:04:50 INFO: 0.09 seconds to update albums error
-16-Sep-2019 15:04:50 INFO: 
+17-Sep-2019 10:02:38 INFO: 0.1 seconds to update albums error
+17-Sep-2019 10:02:38 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:02:38 INFO: 
+
+17-Sep-2019 10:02:38 INFO: 0.07 seconds to update albums error
+17-Sep-2019 10:02:38 INFO: Exiting program
+17-Sep-2019 10:02:57 INFO: Starting program
+17-Sep-2019 10:02:57 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:02:57 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.10 seconds.
+13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:04:50 INFO: 0.06 seconds to update albums error
-16-Sep-2019 15:04:50 INFO: Exiting program
-16-Sep-2019 15:05:20 INFO: Starting program
-16-Sep-2019 15:05:20 INFO: 
+17-Sep-2019 10:02:57 INFO: 0.1 seconds to update albums error
+17-Sep-2019 10:02:57 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:02:57 INFO: 
 
+17-Sep-2019 10:02:57 INFO: 0.08 seconds to update albums error
+17-Sep-2019 10:02:57 INFO: Exiting program
+17-Sep-2019 10:03:46 INFO: Starting program
+17-Sep-2019 10:03:46 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:03:47 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.06 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:05:20 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:05:20 INFO: 
+17-Sep-2019 10:03:47 INFO: 1.08 seconds to update albums error
+17-Sep-2019 10:03:47 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:03:48 INFO: 
 
-
-16-Sep-2019 15:05:20 INFO: 0.03 seconds to update albums error
-16-Sep-2019 15:05:20 INFO: Exiting program
-16-Sep-2019 15:06:15 INFO: Starting program
-16-Sep-2019 15:06:15 INFO: 
-
+17-Sep-2019 10:03:48 INFO: 1.07 seconds to update albums error
+17-Sep-2019 10:03:48 INFO: Exiting program
+17-Sep-2019 10:04:20 INFO: Starting program
+17-Sep-2019 10:04:20 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:04:21 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
+dirsync finished in 0.09 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:06:15 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:06:15 INFO: 
+17-Sep-2019 10:04:21 INFO: 1.11 seconds to update albums error
+17-Sep-2019 10:04:21 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:04:22 INFO: 
 
-
-16-Sep-2019 15:06:15 INFO: 0.03 seconds to update albums error
-16-Sep-2019 15:06:15 INFO: Exiting program
-16-Sep-2019 15:07:30 INFO: Starting program
-16-Sep-2019 15:07:30 WARNING: C:/temp/src C:/temp/dest
-16-Sep-2019 15:07:30 INFO: 
-
+17-Sep-2019 10:04:22 INFO: 1.06 seconds to update albums error
+17-Sep-2019 10:04:22 INFO: Exiting program
+17-Sep-2019 10:06:24 INFO: Starting program
+17-Sep-2019 10:06:24 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:06:59 INFO: Starting program
+17-Sep-2019 10:06:59 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:07:00 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 15:07:30 INFO: 0.08 seconds to update albums error
-16-Sep-2019 15:07:30 WARNING: C:/temp/dest C:/temp/src
-16-Sep-2019 15:07:30 INFO: 
-
-
-16-Sep-2019 15:07:30 INFO: 0.1 seconds to update albums error
-16-Sep-2019 15:07:30 INFO: Exiting program
-16-Sep-2019 15:08:58 INFO: Starting program
-16-Sep-2019 15:08:58 WARNING: C:/temp/dest C:/temp/src
-16-Sep-2019 15:08:59 INFO: 
-
-Synchronizing directory C:/temp/src with C:/temp/dest
-Source directory: C:/temp/dest:
 dirsync finished in 0.06 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:08:59 INFO: 0.08 seconds to update albums error
-16-Sep-2019 15:08:59 WARNING: C:/temp/src C:/temp/dest
-16-Sep-2019 15:08:59 INFO: 
+17-Sep-2019 10:07:00 INFO: 1.07 seconds to update albums error
+17-Sep-2019 10:07:00 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:07:01 INFO: 
 
-
-16-Sep-2019 15:08:59 INFO: 0.04 seconds to update albums error
-16-Sep-2019 15:08:59 INFO: Exiting program
-16-Sep-2019 15:09:59 INFO: Starting program
-16-Sep-2019 15:09:59 WARNING: C:/temp/src C:/temp/dest
-16-Sep-2019 15:09:59 INFO: 
+17-Sep-2019 10:07:01 INFO: 1.07 seconds to update albums error
+17-Sep-2019 10:07:01 INFO: Exiting program
+17-Sep-2019 10:07:19 INFO: Starting program
+17-Sep-2019 10:07:19 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:07:20 INFO: 1.07 seconds to update albums error
+17-Sep-2019 10:07:20 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:07:21 INFO: 1.07 seconds to update albums error
+17-Sep-2019 10:07:21 INFO: Exiting program
+17-Sep-2019 10:07:37 INFO: Starting program
+17-Sep-2019 10:07:37 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:07:38 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
+dirsync finished in 0.12 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:09:59 INFO: 0.07 seconds to update albums error
-16-Sep-2019 15:09:59 WARNING: C:/temp/dest C:/temp/src
-16-Sep-2019 15:09:59 INFO: 
+17-Sep-2019 10:07:38 INFO: 1.14 seconds to update albums error
+17-Sep-2019 10:07:38 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:07:39 INFO: 
 
-16-Sep-2019 15:09:59 INFO: 0.05 seconds to update albums error
-16-Sep-2019 15:09:59 INFO: Exiting program
-16-Sep-2019 15:10:35 INFO: Starting program
-16-Sep-2019 15:10:35 WARNING: C:/temp/src C:/temp/dest
-16-Sep-2019 15:10:35 INFO: 
+17-Sep-2019 10:07:39 INFO: 1.11 seconds to update albums error
+17-Sep-2019 10:07:39 INFO: Exiting program
+17-Sep-2019 10:08:55 INFO: Starting program
+17-Sep-2019 10:08:55 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:08:56 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-Copying file New Microsoft PowerPoint Presentation.pptx from C:/temp/src\Project Management/02 Planning to C:/temp/dest\Project Management/02 Planning
 dirsync finished in 0.08 seconds.
-13 directories parsed, 1 files copied
+13 directories parsed, 0 files copied
 
 
-16-Sep-2019 15:10:35 INFO: 0.08 seconds to update albums error
-16-Sep-2019 15:10:35 WARNING: C:/temp/dest C:/temp/src
-16-Sep-2019 15:10:36 INFO: 
+17-Sep-2019 10:08:56 INFO: 1.09 seconds to update files
+17-Sep-2019 10:08:56 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:08:57 INFO: 
 
-16-Sep-2019 15:10:36 INFO: 0.04 seconds to update albums error
-16-Sep-2019 15:10:36 INFO: Exiting program
-16-Sep-2019 17:05:45 INFO: Starting program
-16-Sep-2019 17:05:45 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:05:45 INFO: 
+17-Sep-2019 10:08:57 INFO: 1.07 seconds to update files
+17-Sep-2019 10:08:57 INFO: Exiting program
+17-Sep-2019 10:09:21 INFO: Starting program
+17-Sep-2019 10:09:21 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:09:22 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.16 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:09:22 WARNING: test
+17-Sep-2019 10:09:22 INFO: 1.16 seconds to update files
+17-Sep-2019 10:09:22 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:09:23 INFO: 
+
+17-Sep-2019 10:09:23 WARNING: test
+17-Sep-2019 10:09:23 INFO: 1.09 seconds to update files
+17-Sep-2019 10:09:23 INFO: Exiting program
+17-Sep-2019 10:10:07 INFO: Starting program
+17-Sep-2019 10:10:07 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:10:08 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:10:35 INFO: Starting program
+17-Sep-2019 10:10:35 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:10:37 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:11:24 INFO: Starting program
+17-Sep-2019 10:11:24 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:11:25 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.06 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:11:25 WARNING: test : 158
+17-Sep-2019 10:11:25 INFO: 1.09 seconds to update files
+17-Sep-2019 10:11:25 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:11:26 INFO: 
+
+17-Sep-2019 10:11:26 WARNING: test : 0
+17-Sep-2019 10:11:26 INFO: 1.09 seconds to update files
+17-Sep-2019 10:11:26 INFO: Exiting program
+17-Sep-2019 10:12:46 INFO: Starting program
+17-Sep-2019 10:12:46 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:12:47 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.09 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 17:05:45 INFO: 0.11 seconds to update albums error
-16-Sep-2019 17:05:45 DEBUG: C:/temp/dest C:/temp/src
-16-Sep-2019 17:05:46 INFO: 
+17-Sep-2019 10:12:47 WARNING: test : 158
+17-Sep-2019 10:12:47 INFO: 1.11 seconds to update files
+17-Sep-2019 10:12:47 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:12:48 INFO: 
 
-16-Sep-2019 17:05:46 INFO: 0.04 seconds to update albums error
-16-Sep-2019 17:05:46 INFO: Exiting program
-16-Sep-2019 17:06:56 INFO: Starting program
-16-Sep-2019 17:06:56 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:06:56 INFO: 
+17-Sep-2019 10:12:48 WARNING: test : 0
+17-Sep-2019 10:12:48 INFO: 1.05 seconds to update files
+17-Sep-2019 10:12:48 INFO: Exiting program
+17-Sep-2019 10:13:24 INFO: Starting program
+17-Sep-2019 10:13:24 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:13:24 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
+dirsync finished in 0.11 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 17:06:56 INFO: 0.08 seconds to update albums error
-16-Sep-2019 17:06:56 DEBUG: C:/temp/scr C:/temp/dest1
-16-Sep-2019 17:07:06 INFO: Starting program
-16-Sep-2019 17:07:06 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:07:06 INFO: 
+17-Sep-2019 10:13:24 WARNING: test : 158
+17-Sep-2019 10:13:24 INFO: 0.12 seconds to update files
+17-Sep-2019 10:13:24 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:13:24 INFO: 
+
+17-Sep-2019 10:13:24 WARNING: test : 0
+17-Sep-2019 10:13:24 INFO: 0.07 seconds to update files
+17-Sep-2019 10:13:24 INFO: Exiting program
+17-Sep-2019 10:13:53 INFO: Starting program
+17-Sep-2019 10:13:53 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:13:53 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.10 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:13:53 WARNING: test : 158
+17-Sep-2019 10:13:53 INFO: 0.1 seconds to update files
+17-Sep-2019 10:13:53 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:13:53 INFO: 
+
+17-Sep-2019 10:13:53 WARNING: test : 0
+17-Sep-2019 10:13:53 INFO: 0.1 seconds to update files
+17-Sep-2019 10:13:53 INFO: Exiting program
+17-Sep-2019 10:17:58 INFO: Starting program
+17-Sep-2019 10:17:58 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:17:58 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:17:58 WARNING: test : 158
+17-Sep-2019 10:17:58 INFO: 0.08 seconds to update files
+17-Sep-2019 10:17:58 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:17:58 INFO: 
+
+17-Sep-2019 10:17:58 WARNING: test : 0
+17-Sep-2019 10:17:58 INFO: 0.07 seconds to update files
+17-Sep-2019 10:17:58 INFO: Exiting program
+17-Sep-2019 10:18:14 INFO: Starting program
+17-Sep-2019 10:18:14 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:18:14 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
 dirsync finished in 0.06 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 17:07:06 INFO: 0.06 seconds to update albums error
-16-Sep-2019 17:07:06 DEBUG: C:/temp/scr C:/temp/dest1
-16-Sep-2019 17:25:48 INFO: Starting program
-16-Sep-2019 17:25:48 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:25:48 INFO: 
-Updating directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.05 seconds.
-13 directories parsed, 0 files copied
+17-Sep-2019 10:18:14 WARNING: test : 158
+17-Sep-2019 10:18:14 INFO: 0.06 seconds to update files
+17-Sep-2019 10:18:14 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:18:14 INFO: 
 
-
-16-Sep-2019 17:25:48 INFO: 0.06 seconds to update albums error
-16-Sep-2019 17:25:48 DEBUG: C:/temp/scr C:/temp/dest1
-16-Sep-2019 17:26:13 INFO: Starting program
-16-Sep-2019 17:26:13 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:26:13 INFO: 
-Updating directory C:/temp/dest with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 17:26:13 INFO: 0.06 seconds to update albums error
-16-Sep-2019 17:26:13 DEBUG: C:/temp/scr C:/temp/dest1
-16-Sep-2019 17:26:28 INFO: Starting program
-16-Sep-2019 17:26:28 DEBUG: C:/temp/src C:/temp/dest1
-16-Sep-2019 17:26:28 INFO: 
-Synchronizing directory C:/temp/dest1 with C:/temp/src
-Source directory: C:/temp/src:
-Copying file 04 Project Status Report - FY20 Technology Program - WE11-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 08 Project Closure Report [Template].docx from C:/temp/src\Project Management/05 Closure to C:/temp/dest1\Project Management/05 Closure
-Copying file 04 Project Steering Committee Minutes - FY20 Technology Program - August-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file Project Tracker RFC - 8000002473 - MS Exchange Online.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file Thumbs.db from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file Project Tracker RFC - 8000002471 - Server Room Remediation.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 04 Project Status Report - FY20 Technology Program - WE18-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file FY20 Technology Program - PET Template.xlsx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
-Copying file FY20 Technology Program Schedule.xlsx from C:/temp/src\Project Management/04 Monitoring & Control/Schedule Updates (Reporting to Zahir) to C:/temp/dest1\Project Management/04 Monitoring & Control/Schedule Updates (Reporting to Zahir)
-Copying file New Microsoft Word Document.docx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
-Copying file New Microsoft PowerPoint Presentation.pptx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
-Copying file New QlikView Document.qvw from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
-Copying file Thumbs.db from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
-Copying file 05 Project Change Request [Template].docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
-Copying file ~$ Project Charter - FY20 Technology Program.docx from C:/temp/src\Project Management/01 Initiation/01 Project Charter to C:/temp/dest1\Project Management/01 Initiation/01 Project Charter
-Copying file 03 Major Project Management Plan [Template].docx from C:/temp/src\Project Management/02 Planning/testtt to C:/temp/dest1\Project Management/02 Planning/testtt
-Copying file Project Tracker RFC - 8000002469 - File Archiving to Cloud.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 04 Project Status Report [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 04 Project Status Report - FY20 Technology Program - WE01-Sep-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 04 Project Status Report - FY20 Technology Program - WE11-Aug-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file FW  CAB Updates - 14 Aug 2019.msg from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
-Copying file Master Schedule - FY20 Technology Program.mpp from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
-Copying file Projects New PET form - Template.xlsx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
-Copying file Presentation - FY20 Technology Program SteerCo.pptx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file Project Tracker RFC - 8000002467 - MS SharePoint Online.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file Project Tracker RFC - 8000002539 - FY20 Infrastructure as a Service.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 04 Project Status Report - FY20 Technology Program - WE01-Sep-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 04 Project Status Report - FY20 Technology Program - WE08-Sep-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 04 Project Steering Committee Minutes - FY20 Technology Program - August-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file Presentation - FY20 Technology Program Master Pack.pptx from C:/temp/src\Project Management/01 Initiation to C:/temp/dest1\Project Management/01 Initiation
-Copying file File Archiving to Cloud_ IT Demand request form.docx from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-Copying file MS SharePoint Online_ IT Demand request form.docx from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
-Copying file ~$ Project Status Report - FY20 Technology Program - WE11-Aug-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file Project Tracker RFC - 8000002472 - IT Communications Maintenance.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 04 Project Status Report - FY20 Technology Program - WE08-Sep-2019.docx from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-Copying file 06 Formal Acceptance Form [Template] .docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
-Copying file 04 Project Steering Committee Minutes [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file New Microsoft Excel Worksheet.xlsx from C:/temp/src\Project Management/02 Planning to C:/temp/dest1\Project Management/02 Planning
-Copying file 07 Team Performance Assessment [Template].docx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 03 Project Management Plan [Template].docx from C:/temp/src\Project Management/02 Planning/testtt to C:/temp/dest1\Project Management/02 Planning/testtt
-Copying file Project Tracker RFC - 8000002470 - MS SCCM Upgrade.xlsx from C:/temp/src\Project Management/04 Monitoring & Control to C:/temp/dest1\Project Management/04 Monitoring & Control
-Copying file 02 Project Charter - FY20 Technology Program.docx from C:/temp/src\Project Management/01 Initiation/01 Project Charter to C:/temp/dest1\Project Management/01 Initiation/01 Project Charter
-Copying file 06 Transition Acceptance Form [Template].docx from C:/temp/src\Project Management/03 Execution to C:/temp/dest1\Project Management/03 Execution
-Copying file 04 Project Status Report - FY20 Technology Program - WE18-Aug-2019.pdf from C:/temp/src\Project Management/04 Monitoring & Control/04 Project Status Reports to C:/temp/dest1\Project Management/04 Monitoring & Control/04 Project Status Reports
-dirsync finished in 0.47 seconds.
-13 directories parsed, 44 files copied
-11 directories were created.
-
-
-16-Sep-2019 17:26:28 INFO: 0.47 seconds to update albums error
-16-Sep-2019 17:26:28 INFO: Exiting program
-16-Sep-2019 17:27:08 INFO: Starting program
-16-Sep-2019 17:27:08 DEBUG: C:/temp/src C:/temp/dest1
-16-Sep-2019 17:27:08 INFO: 
-Synchronizing directory C:/temp/dest1 with C:/temp/src
-Source directory: C:/temp/src:
-dirsync finished in 0.06 seconds.
-13 directories parsed, 0 files copied
-
-
-16-Sep-2019 17:27:08 INFO: 0.07 seconds to update albums error
-16-Sep-2019 17:27:08 INFO: Exiting program
-16-Sep-2019 17:37:46 INFO: Starting program
-16-Sep-2019 17:38:08 INFO: Starting program
-16-Sep-2019 17:38:08 DEBUG: 1 <__main__.SyncObject object at 0x000001FC1D0E1308>
-16-Sep-2019 17:38:44 INFO: Starting program
-16-Sep-2019 17:38:52 INFO: Starting program
-16-Sep-2019 17:38:52 DEBUG: C:/temp/src C:/temp/dest
-16-Sep-2019 17:38:53 INFO: 
+17-Sep-2019 10:18:14 WARNING: test : 0
+17-Sep-2019 10:18:14 INFO: 0.06 seconds to update files
+17-Sep-2019 10:18:14 INFO: Exiting program
+17-Sep-2019 10:18:36 INFO: Starting program
+17-Sep-2019 10:18:36 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:18:36 INFO: 
 Synchronizing directory C:/temp/dest with C:/temp/src
 Source directory: C:/temp/src:
-dirsync finished in 0.07 seconds.
+dirsync finished in 0.15 seconds.
 13 directories parsed, 0 files copied
 
 
-16-Sep-2019 17:38:53 INFO: 0.08 seconds to update albums error
-16-Sep-2019 17:38:53 DEBUG: C:/temp/src C:/temp/dest1
-16-Sep-2019 17:38:53 INFO: 
+17-Sep-2019 10:18:36 WARNING: test : 158
+17-Sep-2019 10:18:36 INFO: 0.15 seconds to update files
+17-Sep-2019 10:18:36 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:18:36 INFO: 
 
-16-Sep-2019 17:38:53 INFO: 0.06 seconds to update albums error
-16-Sep-2019 17:38:53 INFO: Exiting program
+17-Sep-2019 10:18:36 WARNING: test : 0
+17-Sep-2019 10:18:36 INFO: 0.1 seconds to update files
+17-Sep-2019 10:18:36 INFO: Exiting program
+17-Sep-2019 10:18:54 INFO: Starting program
+17-Sep-2019 10:18:54 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:18:55 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.09 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:18:55 WARNING: test : 158
+17-Sep-2019 10:18:55 INFO: 0.09 seconds to update files
+17-Sep-2019 10:18:55 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:18:55 INFO: 
+
+17-Sep-2019 10:18:55 WARNING: test : 0
+17-Sep-2019 10:18:55 INFO: 0.05 seconds to update files
+17-Sep-2019 10:18:55 INFO: Exiting program
+17-Sep-2019 10:24:31 INFO: Starting program
+17-Sep-2019 10:24:31 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:24:31 INFO: 
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.11 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:24:31 WARNING: test : 158
+17-Sep-2019 10:24:31 INFO: 0.12 seconds to update files
+17-Sep-2019 10:24:31 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:24:31 INFO: 
+
+17-Sep-2019 10:24:31 WARNING: test : 0
+17-Sep-2019 10:24:31 INFO: 0.05 seconds to update files
+17-Sep-2019 10:24:31 INFO: Exiting program
+17-Sep-2019 10:31:48 INFO: Starting program
+17-Sep-2019 10:31:48 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:31:48 INFO: 
+test1
+Synchronizing directory C:/temp/dest with C:/temp/src
+Source directory: C:/temp/src:
+dirsync finished in 0.08 seconds.
+13 directories parsed, 0 files copied
+
+
+17-Sep-2019 10:31:48 WARNING: test : 164
+17-Sep-2019 10:31:48 INFO: 0.08 seconds to update files
+17-Sep-2019 10:31:48 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:31:48 INFO: 
+test1
+
+17-Sep-2019 10:31:48 WARNING: test : 6
+17-Sep-2019 10:31:48 INFO: 0.05 seconds to update files
+17-Sep-2019 10:31:48 INFO: Exiting program
+17-Sep-2019 10:32:27 INFO: Starting program
+17-Sep-2019 10:32:28 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:32:28 INFO: 
+test1
+dirsync finished in 0.14 seconds.
+13 directories parsed, 0 files copied
+
+test12
+
+17-Sep-2019 10:32:28 WARNING: test : 86
+17-Sep-2019 10:32:28 INFO: 0.14 seconds to update files
+17-Sep-2019 10:32:28 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:32:28 INFO: 
+test1
+test12
+
+17-Sep-2019 10:32:28 WARNING: test : 13
+17-Sep-2019 10:32:28 INFO: 0.16 seconds to update files
+17-Sep-2019 10:32:28 INFO: Exiting program
+17-Sep-2019 10:38:45 INFO: Starting program
+17-Sep-2019 10:38:45 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:38:45 INFO: 
+test1
+dirsync finished in 0.15 seconds.
+13 directories parsed, 0 files copied
+
+test12
+
+17-Sep-2019 10:38:45 WARNING: test : 86
+17-Sep-2019 10:38:50 INFO: 5.15 seconds to update files
+17-Sep-2019 10:38:50 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:38:50 INFO: 
+test1
+test12
+
+17-Sep-2019 10:38:50 WARNING: test : 13
+17-Sep-2019 10:38:55 INFO: 5.06 seconds to update files
+17-Sep-2019 10:38:55 INFO: Exiting program
+17-Sep-2019 10:39:32 INFO: Starting program
+17-Sep-2019 10:39:40 INFO: Starting program
+17-Sep-2019 10:39:52 INFO: Starting program
+17-Sep-2019 10:40:01 INFO: Starting program
+17-Sep-2019 10:40:01 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:40:01 INFO: 
+test1
+dirsync finished in 0.09 seconds.
+13 directories parsed, 0 files copied
+
+test12
+
+17-Sep-2019 10:40:01 WARNING: test : 86
+17-Sep-2019 10:40:06 INFO: 5.1 seconds to update files
+17-Sep-2019 10:40:06 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:40:06 INFO: 
+test1
+test12
+
+17-Sep-2019 10:40:06 WARNING: test : 13
+17-Sep-2019 10:40:11 INFO: 5.07 seconds to update files
+17-Sep-2019 10:40:11 INFO: Exiting program
+17-Sep-2019 10:57:00 INFO: Starting program
+17-Sep-2019 10:57:00 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 10:57:00 INFO: 
+test1
+dirsync finished in 0.10 seconds.
+13 directories parsed, 0 files copied
+
+test12
+
+17-Sep-2019 10:57:00 WARNING: test : 86
+17-Sep-2019 10:57:05 INFO: 5.12 seconds to update files
+17-Sep-2019 10:57:05 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 10:57:05 INFO: 
+test1
+test12
+
+17-Sep-2019 10:57:05 WARNING: test : 13
+17-Sep-2019 10:57:10 INFO: 5.08 seconds to update files
+17-Sep-2019 10:57:10 INFO: Exiting program
+17-Sep-2019 11:06:34 INFO: Starting program
+17-Sep-2019 11:06:34 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:06:34 INFO: 0.06 seconds to update files
+17-Sep-2019 11:06:34 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:06:34 INFO: 0.11 seconds to update files
+17-Sep-2019 11:06:34 INFO: Exiting program
+17-Sep-2019 11:07:44 INFO: Starting program
+17-Sep-2019 11:07:44 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:08:48 INFO: Starting program
+17-Sep-2019 11:08:48 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:09:11 INFO: Starting program
+17-Sep-2019 11:09:11 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:09:11 INFO: 0.08 seconds to update files
+17-Sep-2019 11:09:11 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:09:12 INFO: 0.1 seconds to update files
+17-Sep-2019 11:09:12 INFO: Exiting program
+17-Sep-2019 11:09:30 INFO: Starting program
+17-Sep-2019 11:09:30 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:09:30 INFO: 0.08 seconds to update files
+17-Sep-2019 11:09:30 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:09:30 INFO: 0.12 seconds to update files
+17-Sep-2019 11:09:30 INFO: Exiting program
+17-Sep-2019 11:10:08 INFO: Starting program
+17-Sep-2019 11:10:08 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:10:27 INFO: Starting program
+17-Sep-2019 11:10:27 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:10:27 INFO: 0.15 seconds to update files
+17-Sep-2019 11:10:27 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:10:27 INFO: 0.12 seconds to update files
+17-Sep-2019 11:10:27 INFO: Exiting program
+17-Sep-2019 11:11:33 INFO: Starting program
+17-Sep-2019 11:11:33 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:11:34 INFO: 0.11 seconds to update files
+17-Sep-2019 11:11:34 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:11:34 INFO: 0.1 seconds to update files
+17-Sep-2019 11:11:34 INFO: Exiting program
+17-Sep-2019 11:12:33 INFO: Starting program
+17-Sep-2019 11:12:33 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:12:34 INFO: 0.14 seconds to update files
+17-Sep-2019 11:12:34 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:12:34 INFO: 0.17 seconds to update files
+17-Sep-2019 11:12:34 INFO: Exiting program
+17-Sep-2019 11:13:00 INFO: Starting program
+17-Sep-2019 11:13:00 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:13:19 INFO: Starting program
+17-Sep-2019 11:13:19 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:13:39 INFO: Starting program
+17-Sep-2019 11:13:39 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:13:40 INFO: 1.09 seconds to update files
+17-Sep-2019 11:13:40 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:13:41 INFO: 1.1 seconds to update files
+17-Sep-2019 11:13:41 INFO: Exiting program
+17-Sep-2019 11:13:52 INFO: Starting program
+17-Sep-2019 11:13:52 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:13:53 INFO: 1.25 seconds to update files
+17-Sep-2019 11:13:53 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:13:54 INFO: 1.11 seconds to update files
+17-Sep-2019 11:13:54 INFO: Exiting program
+17-Sep-2019 11:14:05 INFO: Starting program
+17-Sep-2019 11:14:05 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:14:06 INFO: 1.11 seconds to update files
+17-Sep-2019 11:14:06 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:14:07 INFO: 1.1 seconds to update files
+17-Sep-2019 11:14:07 INFO: Exiting program
+17-Sep-2019 11:14:36 INFO: Starting program
+17-Sep-2019 11:14:36 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:14:36 INFO: 0.12 seconds to update files
+17-Sep-2019 11:14:36 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:14:36 INFO: 0.06 seconds to update files
+17-Sep-2019 11:14:36 INFO: Exiting program
+17-Sep-2019 11:17:03 INFO: Starting program
+17-Sep-2019 11:17:03 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:17:43 INFO: Starting program
+17-Sep-2019 11:17:43 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:17:43 INFO: dirsync finished in 0.10 seconds.
+17-Sep-2019 11:17:43 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:17:43 INFO: 
+17-Sep-2019 11:17:43 INFO: 0.1 seconds to update files
+17-Sep-2019 11:17:43 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:17:43 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:17:43 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:17:43 INFO: 
+17-Sep-2019 11:17:43 INFO: 0.08 seconds to update files
+17-Sep-2019 11:17:43 INFO: Exiting program
+17-Sep-2019 11:18:10 INFO: Starting program
+17-Sep-2019 11:18:10 DEBUG: C:/temp/src C:/temp/dest
+17-Sep-2019 11:18:10 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:18:10 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:18:10 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:18:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:18:10 INFO: 
+17-Sep-2019 11:18:10 INFO: 0.09 seconds to update files
+17-Sep-2019 11:18:10 DEBUG: C:/temp/src C:/temp/dest1
+17-Sep-2019 11:18:10 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:18:10 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:18:10 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:18:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:18:10 INFO: 
+17-Sep-2019 11:18:10 INFO: 0.08 seconds to update files
+17-Sep-2019 11:18:10 INFO: Exiting program
+17-Sep-2019 11:19:57 INFO: Starting program
+17-Sep-2019 11:20:07 INFO: Starting program
+17-Sep-2019 11:20:07 DEBUG: Processing #1
+17-Sep-2019 11:20:07 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:20:07 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:20:07 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:20:07 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:20:07 INFO: 
+17-Sep-2019 11:20:07 INFO: 0.07 seconds to update files
+17-Sep-2019 11:20:07 DEBUG: Processing #2
+17-Sep-2019 11:20:07 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:20:07 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:20:07 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:20:07 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:20:07 INFO: 
+17-Sep-2019 11:20:07 INFO: 0.07 seconds to update files
+17-Sep-2019 11:20:07 INFO: Exiting program
+17-Sep-2019 11:25:32 INFO: Starting program
+17-Sep-2019 11:25:32 DEBUG: Processing #1
+17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:25:32 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:25:32 INFO: 
+17-Sep-2019 11:25:32 DEBUG: Processing #1
+17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:25:32 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:25:32 INFO: 
+17-Sep-2019 11:25:32 DEBUG: Processing #2
+17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:25:32 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:25:32 INFO: 
+17-Sep-2019 11:25:32 DEBUG: Processing #2
+17-Sep-2019 11:25:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:25:32 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:25:32 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:25:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:25:32 INFO: 
+17-Sep-2019 11:25:32 INFO: Exiting program
+17-Sep-2019 11:26:41 INFO: Starting program
+17-Sep-2019 11:26:41 DEBUG: Processing #1
+17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:26:41 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:26:41 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:26:41 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:26:41 INFO: 
+17-Sep-2019 11:26:41 DEBUG: Processing #1
+17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:26:41 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:26:41 INFO: 
+17-Sep-2019 11:26:41 DEBUG: Processing #2
+17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:26:41 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:26:41 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:26:41 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:26:41 INFO: 
+17-Sep-2019 11:26:41 DEBUG: Processing #2
+17-Sep-2019 11:26:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:26:41 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:26:41 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:26:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:26:41 INFO: 
+17-Sep-2019 11:26:41 INFO: Exiting program
+17-Sep-2019 11:27:14 INFO: Starting program
+17-Sep-2019 11:27:14 DEBUG: Processing #1
+17-Sep-2019 11:27:14 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:27:14 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:27:15 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:27:15 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:27:15 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:27:15 INFO: 
+17-Sep-2019 11:27:15 DEBUG: Processing #1
+17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:27:15 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:27:15 INFO: 
+17-Sep-2019 11:27:15 DEBUG: Processing #2
+17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:27:15 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:27:15 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:27:15 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:27:15 INFO: 
+17-Sep-2019 11:27:15 DEBUG: Processing #2
+17-Sep-2019 11:27:15 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:27:15 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:27:15 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:27:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:27:15 INFO: 
+17-Sep-2019 11:27:15 INFO: Exiting program
+17-Sep-2019 11:28:23 INFO: Starting program
+17-Sep-2019 11:28:23 DEBUG: Processing #1
+17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:28:23 INFO: dirsync finished in 0.11 seconds.
+17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:28:23 INFO: 
+17-Sep-2019 11:28:23 DEBUG: Processing #1
+17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:28:23 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:28:23 INFO: 
+17-Sep-2019 11:28:23 DEBUG: Processing #2
+17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:28:23 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:28:23 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:28:23 INFO: 
+17-Sep-2019 11:28:23 DEBUG: Processing #2
+17-Sep-2019 11:28:23 INFO: Updating directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:28:23 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:28:24 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:28:24 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:28:24 INFO: 
+17-Sep-2019 11:28:24 INFO: Exiting program
+17-Sep-2019 11:29:03 INFO: Starting program
+17-Sep-2019 11:29:03 DEBUG: Processing #1
+17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:29:03 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:29:03 INFO: dirsync finished in 0.14 seconds.
+17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:29:03 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:29:03 INFO: 
+17-Sep-2019 11:29:03 DEBUG: Processing #1
+17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:29:03 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:29:03 INFO: 
+17-Sep-2019 11:29:03 DEBUG: Processing #2
+17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:29:03 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:29:03 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:29:03 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:29:03 INFO: 
+17-Sep-2019 11:29:03 DEBUG: Processing #2
+17-Sep-2019 11:29:03 INFO: Updating directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:29:03 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:29:03 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:29:03 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:29:03 INFO: 
+17-Sep-2019 11:29:03 INFO: Exiting program
+17-Sep-2019 11:33:41 INFO: Starting program
+17-Sep-2019 11:33:41 DEBUG: Processing #1
+17-Sep-2019 11:33:41 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:33:41 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:33:41 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:33:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:33:41 INFO: 
+17-Sep-2019 11:33:41 DEBUG: Processing #2
+17-Sep-2019 11:33:41 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:33:41 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:33:41 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:33:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:33:41 INFO: 
+17-Sep-2019 11:33:41 INFO: Exiting program
+17-Sep-2019 11:34:15 INFO: Starting program
+17-Sep-2019 11:34:15 DEBUG: Processing #1
+17-Sep-2019 11:34:15 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:34:15 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:34:15 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:34:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:34:15 INFO: 
+17-Sep-2019 11:34:15 DEBUG: Processing #2
+17-Sep-2019 11:34:15 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:34:15 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:34:15 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:34:15 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:34:15 INFO: 
+17-Sep-2019 11:34:15 INFO: Exiting program
+17-Sep-2019 11:34:50 INFO: Starting program
+17-Sep-2019 11:34:50 DEBUG: Processing #1
+17-Sep-2019 11:34:50 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:34:50 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:34:50 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:34:50 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:34:50 INFO: 
+17-Sep-2019 11:34:50 DEBUG: Processing #2
+17-Sep-2019 11:34:50 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:34:50 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:34:50 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:34:50 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:34:50 INFO: 
+17-Sep-2019 11:34:50 INFO: Exiting program
+17-Sep-2019 11:35:22 INFO: Starting program
+17-Sep-2019 11:35:22 DEBUG: Processing #1
+17-Sep-2019 11:35:22 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:35:22 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:35:23 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:35:23 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:35:23 INFO: 
+17-Sep-2019 11:35:23 DEBUG: Processing #2
+17-Sep-2019 11:35:23 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:35:23 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:35:23 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:35:23 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:35:23 INFO: 
+17-Sep-2019 11:35:23 INFO: Exiting program
+17-Sep-2019 11:36:02 INFO: Starting program
+17-Sep-2019 11:36:02 DEBUG: Processing #1
+17-Sep-2019 11:36:02 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:36:02 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:36:02 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:36:02 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:36:02 INFO: 
+17-Sep-2019 11:36:02 DEBUG: Processing #2
+17-Sep-2019 11:36:02 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:36:02 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:36:02 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:36:02 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:36:02 INFO: 
+17-Sep-2019 11:36:02 INFO: Exiting program
+17-Sep-2019 11:38:09 INFO: Starting program
+17-Sep-2019 11:38:09 DEBUG: Processing #1
+17-Sep-2019 11:38:09 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:38:09 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:38:09 INFO: Updating file C:/temp/src\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:38:09 INFO: dirsync finished in 0.23 seconds.
+17-Sep-2019 11:38:09 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:38:09 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:38:09 INFO: 
+17-Sep-2019 11:38:09 DEBUG: Processing #2
+17-Sep-2019 11:38:09 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:38:09 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:38:09 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:38:09 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:38:09 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:38:09 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:38:09 INFO: 
+17-Sep-2019 11:38:09 INFO: Exiting program
+17-Sep-2019 11:39:19 INFO: Starting program
+17-Sep-2019 11:39:19 DEBUG: Processing #1
+17-Sep-2019 11:39:19 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:39:19 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:39:19 INFO: Updating file C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:39:19 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:39:19 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:39:19 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:39:19 INFO: 
+17-Sep-2019 11:39:19 DEBUG: Processing #2
+17-Sep-2019 11:39:19 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:39:19 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:39:19 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:39:19 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:39:19 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:39:19 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:39:19 INFO: 
+17-Sep-2019 11:39:19 INFO: Exiting program
+17-Sep-2019 11:39:47 INFO: Starting program
+17-Sep-2019 11:39:47 DEBUG: Processing #1
+17-Sep-2019 11:39:47 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:39:47 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:39:47 INFO: Updating file C:/temp/src\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:39:47 INFO: dirsync finished in 0.16 seconds.
+17-Sep-2019 11:39:47 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:39:47 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:39:47 INFO: 
+17-Sep-2019 11:39:47 DEBUG: Processing #2
+17-Sep-2019 11:39:47 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:39:47 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:39:47 INFO: Updating file C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\MS SharePoint Online_ IT Demand request form.docx
+17-Sep-2019 11:39:47 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:39:47 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:39:47 INFO: 1 files were updated by timestamp.
+17-Sep-2019 11:39:47 INFO: 
+17-Sep-2019 11:39:47 INFO: Exiting program
+17-Sep-2019 11:40:40 INFO: Starting program
+17-Sep-2019 11:40:40 DEBUG: Processing #1
+17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:40:40 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:40 INFO: 
+17-Sep-2019 11:40:40 DEBUG: Processing #1
+17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:40:40 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:40 INFO: 
+17-Sep-2019 11:40:40 DEBUG: Processing #2
+17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:40:40 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:40 INFO: 
+17-Sep-2019 11:40:40 DEBUG: Processing #2
+17-Sep-2019 11:40:40 INFO: Updating directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:40:40 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:40:40 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:40:40 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:40 INFO: 
+17-Sep-2019 11:40:40 INFO: Exiting program
+17-Sep-2019 11:40:57 INFO: Starting program
+17-Sep-2019 11:40:57 DEBUG: Processing #1
+17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:40:57 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:57 INFO: 
+17-Sep-2019 11:40:57 DEBUG: Processing #1
+17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:40:57 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:57 INFO: 
+17-Sep-2019 11:40:57 DEBUG: Processing #2
+17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:40:57 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:57 INFO: 
+17-Sep-2019 11:40:57 DEBUG: Processing #2
+17-Sep-2019 11:40:57 INFO: Updating directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:40:57 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:40:57 INFO: dirsync finished in 0.10 seconds.
+17-Sep-2019 11:40:57 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:40:57 INFO: 
+17-Sep-2019 11:40:57 INFO: Exiting program
+17-Sep-2019 11:41:10 INFO: Starting program
+17-Sep-2019 11:41:10 DEBUG: Processing #1
+17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:10 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:10 INFO: 
+17-Sep-2019 11:41:10 DEBUG: Processing #1
+17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:41:10 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:10 INFO: 
+17-Sep-2019 11:41:10 DEBUG: Processing #2
+17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:10 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:10 INFO: 
+17-Sep-2019 11:41:10 DEBUG: Processing #2
+17-Sep-2019 11:41:10 INFO: Updating directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:41:10 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:41:10 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:41:10 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:10 INFO: 
+17-Sep-2019 11:41:10 INFO: Exiting program
+17-Sep-2019 11:41:33 INFO: Starting program
+17-Sep-2019 11:41:33 DEBUG: Processing #1
+17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:33 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:33 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:41:33 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:41:33 INFO: 
+17-Sep-2019 11:41:33 DEBUG: Processing #1
+17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:41:33 INFO: Copying file New Text Document dfd.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:33 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:41:33 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:41:33 INFO: 
+17-Sep-2019 11:41:33 DEBUG: Processing #2
+17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:33 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:33 INFO: Copying file New Text Document dfd.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:33 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:41:33 INFO: 13 directories parsed, 2 files copied
+17-Sep-2019 11:41:33 INFO: 
+17-Sep-2019 11:41:33 DEBUG: Processing #2
+17-Sep-2019 11:41:33 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:41:33 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:41:33 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:41:33 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:33 INFO: 
+17-Sep-2019 11:41:33 INFO: Exiting program
+17-Sep-2019 11:41:50 INFO: Starting program
+17-Sep-2019 11:41:50 DEBUG: Processing #1
+17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:50 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:50 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:41:50 INFO: 
+17-Sep-2019 11:41:50 DEBUG: Processing #1
+17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:41:50 INFO: Copying file New Text Document tttt.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:50 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:41:50 INFO: 
+17-Sep-2019 11:41:50 DEBUG: Processing #2
+17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:41:50 INFO: Copying file New Text Document tttt.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:41:50 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:41:50 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:41:50 INFO: 
+17-Sep-2019 11:41:50 DEBUG: Processing #2
+17-Sep-2019 11:41:50 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:41:50 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:41:50 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:41:50 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:41:50 INFO: 
+17-Sep-2019 11:41:50 INFO: Exiting program
+17-Sep-2019 11:42:24 INFO: Starting program
+17-Sep-2019 11:42:24 DEBUG: Processing #1
+17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:24 INFO: dirsync finished in 0.10 seconds.
+17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:24 INFO: 
+17-Sep-2019 11:42:24 DEBUG: Processing #1
+17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:42:24 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:24 INFO: 
+17-Sep-2019 11:42:24 DEBUG: Processing #2
+17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:24 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:24 INFO: 
+17-Sep-2019 11:42:24 DEBUG: Processing #2
+17-Sep-2019 11:42:24 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:42:24 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:42:24 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:24 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:24 INFO: 
+17-Sep-2019 11:42:24 INFO: Exiting program
+17-Sep-2019 11:42:36 INFO: Starting program
+17-Sep-2019 11:42:36 DEBUG: Processing #1
+17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document tttt.txt
+17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document.txt
+17-Sep-2019 11:42:36 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:36 INFO: 2 files were purged.
+17-Sep-2019 11:42:36 INFO: 
+17-Sep-2019 11:42:36 DEBUG: Processing #1
+17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:36 INFO: 
+17-Sep-2019 11:42:36 DEBUG: Processing #2
+17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document tttt.txt
+17-Sep-2019 11:42:36 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document.txt
+17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:36 INFO: 2 files were purged.
+17-Sep-2019 11:42:36 INFO: 
+17-Sep-2019 11:42:36 DEBUG: Processing #2
+17-Sep-2019 11:42:36 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:42:36 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:42:36 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:36 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:36 INFO: 
+17-Sep-2019 11:42:36 INFO: Exiting program
+17-Sep-2019 11:42:51 INFO: Starting program
+17-Sep-2019 11:42:51 DEBUG: Processing #1
+17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:51 INFO: Copying file New Text Document dfd.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:42:51 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:42:51 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:42:51 INFO: 
+17-Sep-2019 11:42:51 DEBUG: Processing #1
+17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:42:51 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:51 INFO: 
+17-Sep-2019 11:42:51 DEBUG: Processing #2
+17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:42:51 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:51 INFO: 
+17-Sep-2019 11:42:51 DEBUG: Processing #2
+17-Sep-2019 11:42:51 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:42:51 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:42:51 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:42:51 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:42:51 INFO: 
+17-Sep-2019 11:42:51 INFO: Exiting program
+17-Sep-2019 11:44:46 INFO: Starting program
+17-Sep-2019 11:44:46 DEBUG: Processing #1
+17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:44:46 INFO: dirsync finished in 0.10 seconds.
+17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:44:46 INFO: 
+17-Sep-2019 11:44:46 DEBUG: Processing #1
+17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:44:46 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:44:46 INFO: 
+17-Sep-2019 11:44:46 DEBUG: Processing #2
+17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:44:46 INFO: dirsync finished in 0.12 seconds.
+17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:44:46 INFO: 
+17-Sep-2019 11:44:46 DEBUG: Processing #2
+17-Sep-2019 11:44:46 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:44:46 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:44:46 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:44:46 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:44:46 INFO: 
+17-Sep-2019 11:44:46 INFO: Exiting program
+17-Sep-2019 11:45:11 INFO: Starting program
+17-Sep-2019 11:45:11 DEBUG: Processing #1
+17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:11 INFO: Deleting C:/temp/dest\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document dfd.txt
+17-Sep-2019 11:45:11 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:11 INFO: 1 files were purged.
+17-Sep-2019 11:45:11 INFO: 
+17-Sep-2019 11:45:11 DEBUG: Processing #1
+17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:45:11 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:11 INFO: 
+17-Sep-2019 11:45:11 DEBUG: Processing #2
+17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:11 INFO: Deleting C:/temp/dest1\Project Management\00 Pre-Requisites\IT Demand Request Forms\New Text Document dfd.txt
+17-Sep-2019 11:45:11 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:11 INFO: 1 files were purged.
+17-Sep-2019 11:45:11 INFO: 
+17-Sep-2019 11:45:11 DEBUG: Processing #2
+17-Sep-2019 11:45:11 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:45:11 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:45:11 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:45:11 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:11 INFO: 
+17-Sep-2019 11:45:11 INFO: Exiting program
+17-Sep-2019 11:45:32 INFO: Starting program
+17-Sep-2019 11:45:32 DEBUG: Processing #1
+17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:32 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:45:32 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 11:45:32 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:45:32 INFO: 
+17-Sep-2019 11:45:32 DEBUG: Processing #1
+17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:45:32 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 11:45:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:32 INFO: 
+17-Sep-2019 11:45:32 DEBUG: Processing #2
+17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:32 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest1\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:45:32 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:45:32 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:45:32 INFO: 
+17-Sep-2019 11:45:32 DEBUG: Processing #2
+17-Sep-2019 11:45:32 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:45:32 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:45:32 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:45:32 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:32 INFO: 
+17-Sep-2019 11:45:32 INFO: Exiting program
+17-Sep-2019 11:45:40 INFO: Starting program
+17-Sep-2019 11:45:40 DEBUG: Processing #1
+17-Sep-2019 11:45:40 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:45:40 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:40 INFO: Copying file New Text Document.txt from C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:45:40 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 11:45:40 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:45:40 INFO: 
+17-Sep-2019 11:45:40 DEBUG: Processing #1
+17-Sep-2019 11:45:40 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:45:40 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:45:41 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:41 INFO: 
+17-Sep-2019 11:45:41 DEBUG: Processing #2
+17-Sep-2019 11:45:41 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:45:41 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:41 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:41 INFO: 
+17-Sep-2019 11:45:41 DEBUG: Processing #2
+17-Sep-2019 11:45:41 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:45:41 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:45:41 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:45:41 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:41 INFO: 
+17-Sep-2019 11:45:41 INFO: Exiting program
+17-Sep-2019 11:45:47 INFO: Starting program
+17-Sep-2019 11:45:47 DEBUG: Processing #1
+17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:47 INFO: dirsync finished in 0.09 seconds.
+17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:47 INFO: 
+17-Sep-2019 11:45:47 DEBUG: Processing #1
+17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 11:45:47 INFO: Copying file New Text Document.txt from C:/temp/dest\Project Management/00 Pre-Requisites/IT Demand Request Forms to C:/temp/src\Project Management/00 Pre-Requisites/IT Demand Request Forms
+17-Sep-2019 11:45:47 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:45:47 INFO: 13 directories parsed, 1 files copied
+17-Sep-2019 11:45:47 INFO: 
+17-Sep-2019 11:45:47 DEBUG: Processing #2
+17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/src:
+17-Sep-2019 11:45:47 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:47 INFO: 
+17-Sep-2019 11:45:47 DEBUG: Processing #2
+17-Sep-2019 11:45:47 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 11:45:47 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 11:45:47 INFO: dirsync finished in 0.04 seconds.
+17-Sep-2019 11:45:47 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 11:45:47 INFO: 
+17-Sep-2019 11:45:47 INFO: Exiting program
+17-Sep-2019 13:37:41 INFO: Starting program
+17-Sep-2019 13:38:08 INFO: Starting program
+17-Sep-2019 13:38:08 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/src:
+17-Sep-2019 13:38:08 INFO: dirsync finished in 0.10 seconds.
+17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:08 INFO: 
+17-Sep-2019 13:38:08 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 13:38:08 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:08 INFO: 
+17-Sep-2019 13:38:08 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/src:
+17-Sep-2019 13:38:08 INFO: dirsync finished in 0.06 seconds.
+17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:08 INFO: 
+17-Sep-2019 13:38:08 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 13:38:08 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 13:38:08 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 13:38:08 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 13:38:08 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:08 INFO: 
+17-Sep-2019 13:38:08 INFO: Exiting program
+17-Sep-2019 13:38:48 INFO: Starting program
+17-Sep-2019 13:38:48 DEBUG: Processing #1 - Forward pass
+17-Sep-2019 13:38:48 INFO: Synchronizing directory C:/temp/dest with C:/temp/src
+17-Sep-2019 13:38:48 INFO: Source directory: C:/temp/src:
+17-Sep-2019 13:38:48 INFO: dirsync finished in 0.08 seconds.
+17-Sep-2019 13:38:48 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:48 INFO: 
+17-Sep-2019 13:38:48 DEBUG: Processing #1 - Backward pass
+17-Sep-2019 13:38:48 INFO: Synchronizing directory C:/temp/src with C:/temp/dest
+17-Sep-2019 13:38:48 INFO: Source directory: C:/temp/dest:
+17-Sep-2019 13:38:49 INFO: dirsync finished in 0.05 seconds.
+17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:49 INFO: 
+17-Sep-2019 13:38:49 DEBUG: Processing #2 - Forward pass
+17-Sep-2019 13:38:49 INFO: Synchronizing directory C:/temp/dest1 with C:/temp/src
+17-Sep-2019 13:38:49 INFO: Source directory: C:/temp/src:
+17-Sep-2019 13:38:49 INFO: dirsync finished in 0.07 seconds.
+17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:49 INFO: 
+17-Sep-2019 13:38:49 DEBUG: Processing #2 - Backward pass
+17-Sep-2019 13:38:49 INFO: Synchronizing directory C:/temp/src with C:/temp/dest1
+17-Sep-2019 13:38:49 INFO: Source directory: C:/temp/dest1:
+17-Sep-2019 13:38:49 INFO: dirsync finished in 0.03 seconds.
+17-Sep-2019 13:38:49 INFO: 13 directories parsed, 0 files copied
+17-Sep-2019 13:38:49 INFO: 
+17-Sep-2019 13:38:49 INFO: Exiting program

@@ -7,6 +7,8 @@
 
 # Import dirsync for the sync functionality
 
+import io
+
 import mylogger
 import utils
 
@@ -27,15 +29,18 @@ def main():
 	initialise()
 
 	for key in syncPath.keys():
-		print("f : {0} - ".format(syncPath[key].src) + syncPath[key].dest)
 		# source path
 		PATH_SRC = syncPath[key].src
 		# destination path
 		PATH_DEST = syncPath[key].dest
-		utils.directorySync(PATH_SRC, PATH_DEST)
+		
+		# two-way file sync
+		# sync all files, in dictionary order
+		utils.directorySync(key, PATH_SRC, PATH_DEST, False)
+		# sync all files, in dictionary order
+		utils.directorySync(key, PATH_DEST, PATH_SRC, True)
 
 	utils.info("Exiting program")
-
 
 def initialise():
 	utils.clearScreen()
